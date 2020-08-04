@@ -57,8 +57,12 @@
 <lastmod>2020-07-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:7000/studio/company-profiles/</loc>
+<loc>http://localhost:7000/studio/logofolio/</loc>
 <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:7000/studio/company-profiles/</loc>
+<lastmod>2020-08-02T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:7000/about/</loc>
