@@ -74,6 +74,9 @@
 <loc>http://localhost:7000/articles/</loc>
 </url>
 <url>
+<loc>http://localhost:7000/contact/</loc>
+</url>
+<url>
 <loc>http://localhost:7000/articles/guides/</loc>
 </url>
 <url>
