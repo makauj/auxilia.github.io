@@ -165,15 +165,18 @@ p {
     margin-top: -7px;
 }
 
-.article-content h1 {
+.article-content h1,
+.studio-content h1 {
     margin: 0.5em 0 0.25em;
 }
 
-.article-content ul {
+.article-content ul,
+.studio-content ul {
     margin-bottom: 20px;
 }
 
-.article-content ul li {
+.article-content ul li,
+.studio-content ul li {
     padding-left: 1em;
 }
 
