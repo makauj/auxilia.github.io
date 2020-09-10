@@ -1,0 +1,39 @@
+---
+layout: compressa
+---
+{% include capo.html %}
+<section class="info" data-aos="fade-up" data-aos-delay="">
+    <div class="container">
+        <p>Hello, I'm Joshua Makau. I am a Digital Consultant, producing <a class="hvr-underline-from-left" href="/studio/">client work</a> and <a class="hvr-underline-from-left" href="/articles/">articles</a> under the studio name Auxilia. I design for people I believe in, helping them bring their ideas & digital products to life.</p>
+    </div>
+</section>
+<section class="studio-list" data-aos="fade-up" data-aos-delay="">
+    <div class="container">
+        <h4>LATEST WORK</h4>
+        <ul>
+            {% assign sorted = site.studios | sort: 'date' | reverse %}
+            {% for studio in sorted limit:3%}
+            {% include lista.html %}
+            {% endfor %}
+        </ul>
+        <a class="button hvr-wobble-horizontal view-all" href="/studio/">VIEW ALL
+                <span class="icon">
+                    <?xml version="1.0" encoding="UTF-8"?>
+                    <svg width="12px" height="12px" viewBox="0 0 160 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <title>chevron</title>
+                        <desc>Created with Sketch.</desc>
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="chevron" fill="#87A5D2" fill-rule="nonzero">
+                                <polygon id="Path" points="31.093 0 0.907 30.187 98.72 128 0.907 225.813 31.093 256 159.093 128"></polygon>
+                            </g>
+                        </g>
+                    </svg></span>
+            </a>
+</section>
+<section class="callout">
+    <div class="container">
+        <p>I'm all about straight talk and good vibes, with no politics and no drama. Whatever I do, I make sure others care about it as much as you do. </p>
+    </div>
+</section>
+{% include contatto.html %}
+{% include piede.html %}

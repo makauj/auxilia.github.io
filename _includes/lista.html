@@ -1,0 +1,23 @@
+<div class="lista-card hvr-float">
+    {% if studio %}
+    <a href="{{ studio.link }}" title="{{ studio.title }}">
+        <div class="studio-card lista-card-in card-{{forloop.index}} lazyload" data-original="/assets/foto/varie/lazyload.png" style="background-image: linear-gradient(rgba(10, 10, 10, 0.3), rgba(10, 10, 10, 0.3)), url({{studio.image}});">
+            {% else %}
+            <a href="{{ post.url }}" title="{{ post.title }}">
+                <div class="articolo-card lista-card-in card-{{forloop.index}} lazyload" data-original="/assets/foto/varie/lazyload.png" style="background-image: linear-gradient(rgba(10, 10, 10, 0.3), rgba(10, 10, 10, 0.3)), url({{post.image}});">
+                    {%endif%}
+                    <li>
+                        <div class="card-text">
+                            {% if studio %}
+                            <span>{{studio.kind}}</span>
+                            <h1>{{studio.title}}</h1>
+                            {% else %}
+                            {% assign words = post.content | number_of_words %}
+                            <span>{{ post.categories | join: ', '}} • {% if words < 360 %} 1 Min Read{% else %} {{ words | divided_by:180 }} Mins Read{% endif %}</span> 
+                                <h1>{{post.title}}</h1>
+                                    {%endif%}
+                        </div>
+                    </li>
+                </div>
+            </a>
+        </div>

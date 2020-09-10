@@ -1,0 +1,25 @@
+$dark-color: #0A0A0A;
+$link-color: #87A5D2;
+$text-color: #BCBAC8;
+$border:  2px solid #BCBAC8;
+
+$font-name-text: 'DarkerGrotesque';
+%font-family-regular {
+    font-family: '#{$font-name-text}-Regular',
+    sans-serif;
+}
+
+%font-family-bold {
+    font-family: '#{$font-name-text}-Bold',
+    sans-serif;
+}
+
+$path-font: 'fonte';
+@mixin font-face($family, $file) {
+    @font-face {
+        font-family: $family;
+        font-weight: normal;
+        font-style: normal;
+        src: url("#{$path-font}/#{$file}.woff") format("woff");
+    }
+}
