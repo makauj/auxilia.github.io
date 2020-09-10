@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title and page.type != "home" %} {{page.title|capitalize_all}} • Auxilia {% else %} {{site.title | capitalize_all}} {% endif %}</title>
+    {% seo title=false %}
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/foto/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/foto/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/foto/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/foto/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/foto/favicon/safari-pinned-tab.svg" color="#0a0a0a">
+    <link rel="shortcut icon" href="/assets/foto/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#0a0a0a">
+    <meta name="msapplication-config" content="/assets/foto/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preload" href="/assets/stili/primario.css" as="style">
+    <link rel="stylesheet" href="/assets/stili/primario.css" />
+    <link rel="preload" href="/assets/azioni/azioni.js" as="script">
+    <link rel="preload" href="/assets/azioni/init.js" as="script">
+</head>
+
+<body>
+    <svg id="fader"></svg>
+    <script>
+    function fadeInPage() {
+        if (!window.AnimationEvent) { return; }
+        var fader = document.getElementById('fader');
+        fader.classList.add('fade-out');
+    }
+    document.addEventListener('DOMContentLoaded', function() {
+        if (!window.AnimationEvent) { return; }
+        var anchors = document.getElementsByTagName('a');
+
+        for (var idx = 0; idx < anchors.length; idx += 1) {
+            if (anchors[idx].hostname !== window.location.hostname ||
+                anchors[idx].pathname === window.location.pathname) {
+                continue;
+            }
+            anchors[idx].addEventListener('click', function(event) {
+                var fader = document.getElementById('fader'),
+                    anchor = event.currentTarget;
+
+                var listener = function() {
+                    window.location = anchor.href;
+                    fader.removeEventListener('animationend', listener);
+                };
+                fader.addEventListener('animationend', listener);
+
+                event.preventDefault();
+                fader.classList.add('fade-in');
+            });
+        }
+    });
+    window.addEventListener('pageshow', function(event) {
+        if (!event.persisted) {
+            return;
+        }
+        var fader = document.getElementById('fader');
+        fader.classList.remove('fade-in');
+    });
+    fadeInPage();
+    </script>
+    <div class="container" data-aos="fade-in" data-aos-delay="">
+        <div class="content body">
+            <section class="header container" data-aos="fade-down" data-aos-delay="">
+                <div>
+                    {% if page.type == 'home' or page.title == 'Page Not Found' %}
+                    <a class="logo-home hvr-wobble-vertical" href="/"></a>
+                    {% else %}
+                    <a class="logo hvr-wobble-vertical" href="/"></a>
+                    <ul class="header-menu">
+                        <li><a class="hvr-underline-from-left" href="/articles/">Articles</a></li>
+                        <li><a class="hvr-underline-from-left" href="/studio/">Studio</a></li>
+                        <li><a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Contact</a></li>
+                    </ul>
+                    {%endif%}
+                </div>
+            </section>

@@ -1,0 +1,89 @@
+@include font-face('#{$font-name-text}-Regular', #{$font-name-text}-Regular);
+@include font-face('#{$font-name-text}-Bold', #{$font-name-text}-Bold);
+
+body {
+    @extend %font-family-regular;
+    font-size: 21px;
+    line-height: 35px;
+    color: $text-color;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+}
+
+.button {
+    padding-top: 0.25rem;
+    font-size: 0.875em;
+    @extend %font-family-bold;
+}
+/* HEADINGS */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    @extend %font-family-bold;
+    padding: 0;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.125em;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 0.75em;
+}
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-size: 1em;
+}
+strong {
+   @extend %font-family-bold;
+}
+.about {
+    font-size: 1.1em;
+}
+.callout h2 {
+    font-size: 1.5em;
+}
+.article-content ul li::before { 
+  content: " • ";
+}
+.article-image ul li::before,
+.not-found ul li::before {
+  content: "";
+}
+.card-text span {
+    @extend %font-family-bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+.lista-card a {
+    text-decoration: none;
+    color: $text-color;
+}
+.info p,
+.info li,
+.callout p {
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+.footer {
+    line-height: 40px;
+}

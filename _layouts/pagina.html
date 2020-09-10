@@ -1,0 +1,27 @@
+---
+layout: compressa
+---
+{% include capo.html %}
+{% if page.type == 'studio' %}
+<section data-aos="fade-up" data-aos-delay="">
+    <div class="container studio-list">
+        <ul>
+            {% assign sorted = site.studios | sort: 'date' | reverse %}
+            {% for studio in sorted %}
+            {% include lista.html %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+{% else %}
+<section data-aos="fade-up" data-aos-delay="">
+    <div class="container">
+        <ul>
+            {% for post in site.posts %}
+            {% include lista.html %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+{% endif %}
+{% include piede.html %}
