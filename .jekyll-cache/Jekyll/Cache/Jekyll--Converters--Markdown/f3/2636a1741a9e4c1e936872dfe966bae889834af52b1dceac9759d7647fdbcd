@@ -1,0 +1,124 @@
+I"�<p>If there’s one document standard that has stood the test of time, it’s the Portable Document Format, PDF. This file format is special in that it can be view by a wide variety of devices without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.</p>
+
+<p>Unfortunately, it also makes it difficult to adjust. Changes such as extracting pages, adding more pages and converting to other file formats require special software or services. One of these services is ILovePDF, a freemium web service for working with PDFs.</p>
+
+<h1 id="home-page">Home Page</h1>
+<p><a href="https://ILovePDF.com">ILovePDF.com </a> has all its tools front and centre on the homepage. These allow PDFs to be edited in a lot of different ways.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_home.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<h1 id="merge-pdf">Merge PDF</h1>
+<p>Multiple PDFs can be combined to one using this tool. Select it and you’ll be taken to a page where you can upload the pdfs to be merged. Set the order to be used, then tap Merge PDF.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_merge.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<h1 id="split-pdf">Split PDF</h1>
+<p>The split PDF tool takes a single PDF and either:</p>
+
+<ul>
+  <li>Splits it by page range, or</li>
+  <li>Extracts specific pages from it.</li>
+</ul>
+
+<p>Multiple ranges can be set for <em>splitting by range</em>. For <em>extracting pages</em>, all pages can be extracted to single pages, or by specifying which pages to be extracted.</p>
+
+<p>For both options, the resulting files can be merged into a single PDF.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_split.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_extract.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<h1 id="compress-pdf">Compress PDF</h1>
+<p>PDFs can get very large, which makes sharing them via email or chat more difficult than necessary. This is where the Compress PDF service comes in play. Tap on it, select the file to be compressed, and leave the compression level as recommended.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_compress_01.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<p>Tap compress PDF. The file will be uploaded, compressed, and once done the compressed file will be provided to download.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_compress_02.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_compress_03.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<h1 id="pdf-to-other-formats">PDF to Other Formats</h1>
+<p>PDFs can be converted to:</p>
+<ul>
+  <li>Word.</li>
+  <li>Powerpoint.</li>
+  <li>Excel.</li>
+  <li>JPG.</li>
+</ul>
+
+<p>The process is largely the same as the above conversions.</p>
+
+<h1 id="other-formats-to-pdf">Other Formats to PDF</h1>
+<p>Other file formats, namely Word, Powerpoint, Excel and JPG can be converted to PDF.</p>
+
+<h1 id="additional-features">Additional Features</h1>
+<p>You can also do the following:</p>
+<ul>
+  <li>Add page numbers.</li>
+  <li>Add a watermark.</li>
+  <li>Rotate PDF pages.</li>
+  <li>Convert HTML website pages to PDF.</li>
+  <li>Unlock a PDF, provided you have the password.</li>
+  <li>Protect a PDF with a password.</li>
+  <li>Organise a PDF, by sorting, deleting or adding new pages.</li>
+  <li>Convert to PDF/A for long term archiving.</li>
+  <li>Repairing a PDF, by attempting to recover corrupt data.</li>
+</ul>
+
+<h1 id="cost">Cost</h1>
+<p>While the service is free, the number of files that can be edited is limited to 1 per tool. For instance, you can only Split 1 PDF at a time. The Merge PDF tool can take 25 PDFs at once. There are Premium and Premium Pro plans for advanced users.</p>
+
+<div class="media multiple">
+    
+        <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/articolo/pdfs/pdf_pricing.jpg" alt="" class="lazyload" />
+        
+        
+</div>
+
+<h1 id="mobile-apps">Mobile Apps</h1>
+<p>ILovePDF also offers apps for <a href="https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8">iOS</a>, <a href="https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8">iPadOS</a> and <a href="https://play.google.com/store/apps/details?id=com.ilovepdf.www">Android</a>. These work the same as the highly capable web app.</p>
+
+<h1 id="conclusion">Conclusion</h1>
+<p>While there are other services that provide the same features as ILovePDF, you’d be hard pressed to find one that’s as easy and intuitive. ILovePDF offers almost all the tools you’d need to edit PDF files, and it offers most of these for free! There’s no reason not to use it.</p>
+
+<div class="quote">
+        <h2>"The length of a document defends it well against the risk of it being read."</h2> 
+</div>
+:ET
