@@ -59,10 +59,14 @@ strong {
 .about {
     font-size: 1.1em;
 }
+.view-all {
+    @extend %font-family-bold;
+}
 .callout h2 {
     font-size: 1.5em;
 }
-.article-content ul li::before { 
+.article-content ul li::before,
+.studio-content ul li::before { 
   content: " • ";
 }
 .article-image ul li::before,
@@ -84,6 +88,7 @@ strong {
     font-size: 1.2em;
     line-height: 1.4em;
 }
+
 .footer {
     line-height: 40px;
 }
