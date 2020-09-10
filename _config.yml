@@ -9,9 +9,6 @@ collections:
     title: Studios
     output: true
     permalink: "/studio/:path/"
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
