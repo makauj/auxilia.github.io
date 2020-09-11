@@ -5,7 +5,7 @@ categories:
   - guides
 layout: sito
 type: post
-image: /assets/foto/articolo/facebook/Facebook.jpg
+image: /assets/foto/articolo/facebook/Facebook.jpeg
 ---
 
 Ah Facebook. The most popular social network on the planet. Billions of daily users. Billions. So, why write a guide on using one of the most popular apps on the planet?
