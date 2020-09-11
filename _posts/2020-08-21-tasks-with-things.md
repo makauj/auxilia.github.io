@@ -5,7 +5,7 @@ categories:
   - apps
 layout: sito
 type: post
-image: /assets/foto/articolo/things/things1.jpeg
+image: /assets/foto/articolo/things/things2.jpeg
 ---
 
 Things is an iPhone, iPad, Mac and Apple Watch to-do & project management app that is *absolutely gorgeous*. I mean, just look at this:
