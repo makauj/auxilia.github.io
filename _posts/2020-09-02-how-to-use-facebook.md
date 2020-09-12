@@ -8,7 +8,7 @@ type: post
 image: /assets/foto/articolo/facebook/facebook.jpeg
 ---
 
-Ah Facebook. The most popular social network on the planet. Billions of daily users. Billions. So, why write a guide on using one of the most popular apps on the planet?
+Ah Facebook. The most popular social network on the planet. Billions of daily users. Billions. So, why write a guide on using one of the most popular apps on the planet?&nbsp;
 
 Well, here’s how I’d suggest you use Facebook:
 
