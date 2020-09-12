@@ -2,7 +2,7 @@
 title: Podcasts with Pocket Casts
 date: 2020-06-07 00:00:00 Z
 categories:
-- media
+- apps
 layout: sito
 type: post
 image: "/assets/foto/articolo/casts/casts.jpg"
