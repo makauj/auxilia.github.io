@@ -20,7 +20,7 @@ The app opens in the Reading Now section, which displays the current and recent 
 
 Tapping the user icon at the top right displays your purchases, notification settings, redeeming a gift card or code to use in the Book Store, and a link to view the account settings.
 
-{% include media.html file="books/account.jpeg" caption="Account screen options. "%}
+{% include media.html file="books/account.jpeg" caption="Account screen options. " class="single"%}
 
 ## Library
 
