@@ -112,4 +112,4 @@ The Books app for iPad has all the features of the iPhone app, with the advantag
 
 If you’re still reading this then that means you probably already enjoy reading. Which means I probably don’t have to tell you that reading is simply magical. It’s the only thing in the world that allows you to go and live inside another brain for a little while, see what it sees, feel what it feels, and then leave again. You can achieve all this and more with the Books app.
 
-{% include quote.html title="Reading gives us someplace to go when we have to stay where we are." %}
+{% include citazione.html title="Reading gives us someplace to go when we have to stay where we are." %}
