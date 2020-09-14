@@ -22,7 +22,7 @@ As per their tagline, Spark aims to help you love your email again. It does this
 
 Let’s have a closer look at it and it’s features.
 
-# Inbox Screen
+# Inbox
 
 The main screen is a list of your emails currently in Inbox. It’s divided into sections, depending on whether you have Smart Inbox enabled or not.
 
@@ -97,31 +97,39 @@ You can customise a ton of things in the settings screen.
 
 {% include media.html file="spark/settings_view.jpeg" caption="Spark settings."%}
 
-**Email Accounts**: This displays your currently logged in email accounts, a button for adding new accounts and settings one as default. You can also color code your accounts to view them easily in the unified inbox.
+## Email Accounts
+This displays your currently logged in email accounts, a button for adding new accounts and settings one as default. You can also color code your accounts to view them easily in the unified inbox.
 
-**Email Viewer**: This offers a number of useful features such as customising the viewer toolbar, what to do when an email is archived or deleted and whether to show contact avatars.
+## Email Viewer
+This offers a number of useful features such as customising the viewer toolbar, what to do when an email is archived or deleted and whether to show contact avatars.
 
 {% include media.html file="spark/email_accounts_and_viewer.jpeg" caption="Left: Email accounts. Right: Email viewer options."%}
 
-**Services**: One of Spark’s unique features is integration with multiple 3rd party services for processing your emails. You can send them to online file storage services like Dropbox and Google Drive as well as task management systems like Asana, Trello, Things and Todoist.
+## Services
+One of Spark’s unique features is integration with multiple 3rd party services for processing your emails. You can send them to online file storage services like Dropbox and Google Drive as well as task management systems like Asana, Trello, Things and Todoist.
 
 {% include media.html file="spark/email_services.jpeg" caption="Available email services."%}
 
-**Smart Inbox**: You can enable what categories are shown in the Smart Inbox view.
+## Smart Inbox
+You can enable what categories are shown in the Smart Inbox view.
 
-**Appearance**: Spark supports light and dark themes that can be synchronised to the devices dark theme settings.
+## Appearance
+Spark supports light and dark themes that can be synchronised to the devices dark theme settings.
 
 {% include media.html file="spark/smart_inbox_and_appearance.jpeg" caption="Smart Inbox options and appearance settings."%}
 
-**Swipes**: This provides swipe actions on emails. You can mark as read/unread, delete, archive, move, pin, snooze, move to spam as well as send to your 3rd party integrations.
+## Swipes
+This provides swipe actions on emails. You can mark as read/unread, delete, archive, move, pin, snooze, move to spam as well as send to your 3rd party integrations.
 
 {% include media.html file="spark/swipe_settings.jpeg" caption="Inbox swipe settings."%}
 
-**Signature**: You can add your plain text or HTML based email signatures and restrict them to specific email accounts. Signatures can be changed easily when composing emails via left or right swipe gestures.
+## Signature
+You can add your plain text or HTML based email signatures and restrict them to specific email accounts. Signatures can be changed easily when composing emails via left or right swipe gestures.
 
 {% include media.html file="spark/signatures_and_notifications.jpeg" caption="Left: Email signature options. Right: Notifications settings."%}
 
-**Notifications**: One of the best features of Spark, this gives you granular control of how your notifications appear, whether they’re grouped or not, which ones you get, and what actions to perform on them directly from the notification. You can further customise the notification type to display:
+## Notifications
+One of the best features of Spark, this gives you granular control of how your notifications appear, whether they’re grouped or not, which ones you get, and what actions to perform on them directly from the notification. You can further customise the notification type to display:
 
 - All notifications from an account
 - Smart notifications, which mutes strangers and automated emails
@@ -129,19 +137,22 @@ You can customise a ton of things in the settings screen.
 
 The flexible notification features enable you to decide how to get your email notifications and whether their contents are shown in the lock screen, going a long way in helping you know when those butt clenching emails from your boss get into your inbox.
 
-**Email Templates**: Spark offers templates for quickly composing repetitive emails. Other than composing the body text of the template, you can also:
+## Email Templates
+Spark offers templates for quickly composing repetitive emails. Other than composing the body text of the template, you can also:
 
 - Name the template.
 - Add a subject.
 - Add an attachment.
 
-**Security**: Spark offers the following 3 security features:
+## Security
+Spark offers the following 3 security features:
 
 - You can choose to enable/disable loading of photos embedded in emails.
 - Protected notification actions.
 - Passkey lock to prevent unauthorised access to the app and your emails.
 
-**What’s New?**: This page gives you an overview of the latest features added to Spark.
+## What’s New?
+This page gives you an overview of the latest features added to Spark.
 
 {% include media.html file="spark/security_and_whats_new.jpeg" caption="Left: Email security settings. Right: What's New info screen."%}
 
@@ -165,9 +176,11 @@ If you work in a team and email is your main way of communication then the free 
 
 # Additional Features
 
-**Inbox Zero**: Once you reach inbox zero Spark displays a neat graphic and a tweet button to share your incredible achievement.
+## Inbox Zero
+Once you reach inbox zero Spark displays a neat graphic and a tweet button to share your incredible achievement.
 
-**Search**: Spark offers powerful search capabilities with the option of saving searches for later.
+## Search
+Spark offers powerful search capabilities with the option of saving searches for later.
 
 {% include media.html file="spark/inbox_zero_and_search.jpeg" caption="Inbox Zero &amp; Search."%}
 
