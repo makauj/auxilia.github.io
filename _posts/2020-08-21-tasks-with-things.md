@@ -7,7 +7,6 @@ layout: sito
 type: post
 image: /assets/foto/articolo/things/things.jpeg
 ---
-
 Things is an iPhone, iPad, Mac and Apple Watch to-do & project management app that is *absolutely gorgeous*. I mean, just look at this:
 
 {% include media.html file="things/things_demo.jpg" caption="Go on, admit it&hellip; You just want to lick the damn thing, don&rsquo;t you? "%}
@@ -17,13 +16,11 @@ Despite being one in a multitude of similar apps such as Todoist, GoodTask, Remi
 Let’s have a closer look at the iPhone and iPad apps.
 
 # Onboarding
-
 {% include media.html file="things/onboarding.jpg" caption="A tutorial project is provided to guide you on how best to use the app. "%}
 
 Once you download Things from the App Store it takes you through the various views on the home page. These are *Inbox, Today, Upcoming, Anytime, Someday* and *Logbook*.
 
 # Homescreen
-
 The main view displays your lists & projects. Projects can be grouped into Areas for additional organisation.
 
 {% include media.html file="things/homescreen.jpg" caption="Left: Main Things display. Right: Magic Button. "%}
@@ -31,7 +28,6 @@ The main view displays your lists & projects. Projects can be grouped into Areas
 The Settings button at the bottom opens up the settings page. You can also use the Quick Find search bar at the top to look for a specific to-do, project or tag across the whole app.
 
 # Magic Button
-
 This is the blue plus icon that Things uses to create new to-dos and projects. It’s functionality changes depending on where it’s being used:
 
 * In the home page, it creates a new to-do, new project and a new area, as shown in the previous image.
@@ -39,7 +35,6 @@ This is the blue plus icon that Things uses to create new to-dos and projects. I
 * In the Projects view it’s used to create new to-do as well as new project headers.
 
 # Today
-
 The Today screen shows to-dos scheduled to start today. To-dos in Today can be organised either in any order or grouped by list. They can be rearranged and moved to other projects via drag and drop.
 
 {% include media.html file="things/things_today.jpg" caption="Today view with to-do arrangement options. "%}
@@ -47,7 +42,6 @@ The Today screen shows to-dos scheduled to start today. To-dos in Today can be o
 Incomplete to-dos get rolled forward to the following day.
 
 # To-Dos
-
 Tapping a to-do opens it up in a card that displays the name, checklists, due date, deadlines if any and any tag(s) assigned to the to-do.
 
 {% include media.html file="things/to_do_schedule.jpg" caption="To-do display with scheduling options. "%}
@@ -74,7 +68,6 @@ Additional options available for to-dos include:
 {% include media.html file="things/to_do_menu_actions.jpg" caption="To-do menu actions. "%}
 
 # Projects
-
 Projects are a way of organising related to-dos. They share some of the features of to-dos, such as start dates and deadlines.
 
 {% include media.html file="things/project_actions.jpg" caption="The menu at the top displays project actions such as setting a start date, a deadline and duplicating it. "%}
@@ -84,30 +77,25 @@ Projects also have headlines that can be used to better organise to-dos into gro
 {% include media.html file="things/project_headers.jpg" caption="Creating a project header and its associate options. "%}
 
 # Upcoming
-
 This displays upcoming to-dos arranged by date. To-dos can be dragged between dates to reschedule them. If enabled, calendar entries are displayed at the top, with repeating to-dos at the bottom.
 
 {% include media.html file="things/upcoming_anytime.jpg" caption="Upcoming &amp; Anytime. "%}
 
 # Anytime
-
 The Anytime view displays two types of to-dos, organised by project:
 
 * Those starting today.
 * Those without start days.
 
 # Someday
-
 To-dos scheduled for someday appear here, organise by project.
 
 # Logbook
-
 This is where completed to-dos and projects are archived. A to-do can be marked as incomplete and returned to it’s originating project.
 
 {% include media.html file="things/someday_logbook.jpg" caption="Someday &amp; Logbook. "%}
 
 # Settings
-
 {% include media.html file="things/things_settings.jpg" caption="Things Settings. "%}
 
 Things offers a wide variety of settings for customising it to your liking. These include:
@@ -127,7 +115,6 @@ Things offers a wide variety of settings for customising it to your liking. Thes
 {% include media.html file="things/help_import.jpg" caption="Help and Import options. "%}
 
 # Things Cloud
-
 Things offers free reliable cloud sync across your devices. You can create an account, or log in if you have one.
 
 {% include media.html file="things/things_cloud_01.jpg" caption="Log in and sync options. "%}
@@ -143,7 +130,6 @@ If to-dos are found in the cloud account, the following options are provided:
 Once sync is completed you can edit your account settings and configure Mail to Things. This allows you to send emails to a specific account, which then get added to your Things Inbox.
 
 # Quick Find
-
 Pulling down anywhere on Things opens the Quick Find screen. This enables you to find your to-dos and projects as well as their assigned tags. Additional lists can also be accessed using Quick Find. These include:
 
 * Deadlines.
@@ -156,7 +142,6 @@ Pulling down anywhere on Things opens the Quick Find screen. This enables you to
 {% include media.html file="things/things_quick_find.jpg" caption="Quick Find pull down gesture &amp; search results. "%}
 
 # Things for iPad
-
 The iPad app offers all the above features on a bigger canvas with additional multi window features. Multiple windows can be open at any given time, and arranged in a variety of ways.
 
 {% include media.html file="things/iPad_multiple_windows_01.jpg" caption="Multiple windows in Recent Apps. "%}
@@ -172,7 +157,6 @@ You can also pair Things with other apps. Long pressing on the Things icon on th
 Lastly, Things offers full keyboard navigation as well as Mouse & Trackpad support.
 
 # Cost
-
 Things is sold separately in 3 different versions:
 
 * [Mac](https://culturedcode.com/things/mac/appstore/)\: $49.99, with a 15 day trial.
@@ -182,7 +166,6 @@ Things is sold separately in 3 different versions:
 Buying all 3 vesions will set you back about $80, which isn't cheap, at least as far as apps go. The best option would be to get the Mac app trial and use it for two weeks. This will give you enough time to gauge whether you'll be more productive with the app.
 
 # Conclusion
-
 Things is one of the most polished apps I’ve ever used. It’s full of thoughtful features that make task management doable, with a simple intuitive interface that is just delightful to use.
 
 The upfront price, while eye-wateringly high as compared to some of the competition, is subscription free. In this age where everything is going subscription based, that counts as a distinct advantage.

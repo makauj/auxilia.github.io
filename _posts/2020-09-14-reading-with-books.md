@@ -8,11 +8,11 @@ type: post
 image: /assets/foto/articolo/books/libri.jpeg
 ---
 
-Sometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it. The Books app allows you to do exactly this, while making the reading experience as fun as possible.&nbsp;
+Sometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it. The Books app allows you to do exactly this, while making the reading experience as fun as possible.
 
-The Books app is the default ebook and pdf reading app on iPhones and iPads. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management.&nbsp;
+The Books app is the default ebook and pdf reading app on iPhones and iPads. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management.
 
-## Reading Now
+# Reading Now
 
 The app opens in the Reading Now section, which displays the current and recent books you’ve been reading, as well as an Explore and All-Time Bestsellers section for getting additional books. You can also add books to your Want to Read list and they’ll appear under the Current reading books.
 
@@ -22,7 +22,7 @@ Tapping the user icon at the top right displays your purchases, notification set
 
 {% include media.html file="books/account.jpeg" caption="Account screen options. " class="single"%}
 
-## Library
+# Library
 
 This is where you’ll find all your books and pdfs, both bought in the Book Store and added manually to the app. There are two viewing options, Grid and List, and you can sort your books by:
 
@@ -56,28 +56,29 @@ The Edit button at the top right enables you to select multiple books and either
 
 {% include media.html file="books/book-menu.jpeg" caption="Single book menu. "%}
 
-## Book Store
+# Book Store
 
-The Books app provides an inbuilt store where you can buy ebooks and add them to your library. It’s divided into the following sections:
+The Books app provides an inbuilt store where you can buy ebooks and add them to your library. It’s divided into two sections.
 
-* Fiction & Literature:
-  * General Fiction
-  * Poetry
-  * Short Stories
-* Non-Fiction:
-  * General
-  * History
-  * Philosophy
+## Fiction & Literature
+* General Fiction
+* Poetry
+* Short Stories
+
+## Non-Fiction
+* General
+* History
+* Philosophy
 
 {% include media.html file="books/book-store.jpeg" caption="Inbuilt Book Store. "%}
 
-## Search
+# Search
 
 You can search for both books and audiobooks in the Search screen. You’ll also get to see your recent searches as well as trending searches near your location.
 
 {% include media.html file="books/search.jpeg" caption="Search screen, with recent and trending searches. "%}
 
-## Reading Experience
+# Reading Experience
 
 When you tap a book it opens and displays a clean reading experience.
 
@@ -102,14 +103,14 @@ Tapping anywhere on the screen displays a progress bar of how much you’ve read
 
 {% include media.html file="books/reading-options.jpeg" caption=" Book navigation and reading options. "%}
 
-## iPad App
+# iPad App
 
 The Books app for iPad has all the features of the iPhone app, with the advantage of displaying more info on the bigger screen.
 
-{% include media.html file="books/ipad-reading-now.png" caption="Reading now view."%} {% include media.html file="books/ipad-library.png" caption="Library screen. "%} {% include media.html file="books/ipad-store.png" caption="Book Store."%}
+{% include media.html file="books/ipad-reading-now.jpg" caption="Reading now view."%} {% include media.html file="books/ipad-library.jpg" caption="Library screen. "%} {% include media.html file="books/ipad-store.jpg" caption="Book Store."%}
 
-## Conclusion
+# Conclusion
 
 If you’re still reading this then that means you probably already enjoy reading. Which means I probably don’t have to tell you that reading is simply magical. It’s the only thing in the world that allows you to go and live inside another brain for a little while, see what it sees, feel what it feels, and then leave again. You can achieve all this and more with the Books app.
 
-{% include citazione.html title="Reading gives us someplace to go when we have to stay where we are." %}
+{% include citazione.html title="Reading gives us someplace to go <br>when we have to stay where we are." %}

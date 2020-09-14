@@ -7,7 +7,6 @@ layout: sito
 type: post
 image: /assets/foto/articolo/facebook/facebook.jpeg
 ---
-
 Ah Facebook. The most popular social network on the planet. Billions of daily users. Billions. So, why write a guide on using one of the most popular apps on the planet?&nbsp;
 
 Well, here’s how I’d suggest you use Facebook:
@@ -18,4 +17,4 @@ Well, here’s how I’d suggest you use Facebook:
 
 That’s it. How do you use Facebook? You don't. It causes more [harm than good](https://www.businessinsider.com/biggest-facebook-scandals-list-mark-zuckerberg-leaked-harvard-messages-2019-7?IR=T#2016-former-news-curators-at-facebook-say-the-platform-was-purposefully-excluding-conservative-news-from-its-trending-news-list-4). So delete the app, [download your info](https://www.facebook.com/help/delete_account), [delete your account](https://www.facebook.com/help/delete_account), hell, be a hero and get your friends off Facebook too. Save yourself the stress, and stop using it. Just stop.
 
-{% include citazione.html title="Facebook gives people an illusory sense of being LIKED." %}
+{% include citazione.html title="Facebook - wasting people's lives since 2004." %}

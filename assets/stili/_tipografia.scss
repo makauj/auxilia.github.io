@@ -17,11 +17,6 @@ a {
     text-decoration: none;
 }
 
-.button {
-    padding-top: 0.25rem;
-    font-size: 0.875em;
-    @extend %font-family-bold;
-}
 /* HEADINGS */
 h1,
 h2,
@@ -62,9 +57,7 @@ strong {
 .view-all {
     @extend %font-family-bold;
 }
-.callout h2 {
-    font-size: 1.5em;
-}
+
 .article-content ul li::before,
 .studio-content ul li::before { 
   content: " • ";
@@ -87,8 +80,4 @@ strong {
 .callout p {
     font-size: 1.2em;
     line-height: 1.4em;
-}
-
-.footer {
-    line-height: 40px;
 }
