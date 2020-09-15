@@ -1,4 +1,4 @@
-I"ã<p>This is a project by the Egerton University Retirement Benefits Scheme, a modern mall built in Nakuru. I worked with them to create a number of digital products for print and online advertising. These are listed below.</p>
+I"Æ<p>This is a project by the Egerton University Retirement Benefits Scheme, a modern mall built in Nakuru. I worked with them to create a number of digital products for print and online advertising. These are listed below.</p>
 
 <h1 id="banner">Banner</h1>
 <p>A banner to be placed at the mall as it neared completion.</p>
@@ -81,8 +81,7 @@
     
         <div>
             
-            <h2>Hire me, <br />or just say hello!</h2>
-            <p class="email">
+            <h1>Hire me,<br />or just say hello!<br />
                 <a class="hvr-wobble-horizontal mail" href="mailto:hello@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and">hello@auxilia.io
     <span class="icon">
         <?xml version="1.0" encoding="UTF-8"?>
@@ -97,7 +96,7 @@
         </svg>
     </span>
 </a>
-            </p>
+            </h1>
         </div>
 </section>
 :ET

@@ -1,4 +1,4 @@
-I"�<p>A logo can be described as the face of a company.  Quite often, it’s the first thing that a potential customer will notice about your business. Usually, people associate a high-quality logo with the quality of services provided by a particular company.</p>
+I"<p>A logo can be described as the face of a company.  Quite often, it’s the first thing that a potential customer will notice about your business. Usually, people associate a high-quality logo with the quality of services provided by a particular company.</p>
 
 <p>An eye-catching yet professional logo is therefore important to have in order to attract them to your business. Here are some of the logos I’ve made.</p>
 <div class="media logos">
@@ -48,8 +48,8 @@
     
         <div>
             
-            <h2>Hire me, <br />or just say hello!</h2>
-            <p class="email">
+            <h1>Hire me, <br />or just say hello!<br />
+            <!-- <p class="email"> -->
                 <a class="hvr-wobble-horizontal mail" href="mailto:hello@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and">hello@auxilia.io
     <span class="icon">
         <?xml version="1.0" encoding="UTF-8"?>
@@ -64,7 +64,8 @@
         </svg>
     </span>
 </a>
-            </p>
+                </h1>
+            <!-- </p> -->
         </div>
 </section>
 :ET

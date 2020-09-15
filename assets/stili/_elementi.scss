@@ -118,20 +118,8 @@ p {
     margin-left: 7px;
 }
 
-.icon {
-    position: relative;
-    vertical-align: -1px;
-    overflow: hidden;
-}
-
-.callout .icon {
-    position: relative;
-    vertical-align: 0;
-    overflow: hidden;
-}
-
 .email {
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 .lista-card {
@@ -173,7 +161,8 @@ p {
 }
 
 .article-content ul li,
-.studio-content ul li {
+.studio-content ul li,
+.not-found ul li {
     padding-left: 1em;
 }
 
@@ -238,7 +227,6 @@ p {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: -40px;
     margin-bottom: 40px;
 }
 
@@ -316,7 +304,8 @@ p {
 
 /* Underline From Left */
 .hvr-underline-from-left,
-.article-content a {
+.article-content a,
+.not-found a {
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
@@ -325,7 +314,8 @@ p {
 }
 
 .hvr-underline-from-left:before,
-.article-content a::before {
+.article-content a::before,
+.not-found a::before {
     content: "";
     position: absolute;
     z-index: -1;
@@ -347,7 +337,10 @@ p {
 .hvr-underline-from-left:active:before,
 .article-content a:hover:before,
 .article-content a:focus:before,
-.article-content a:active:before {
+.article-content a:active:before,
+.not-found a:hover:before,
+.not-found a:focus:before,
+.not-found a:active:before {
     right: 0;
 }
 

@@ -54,16 +54,17 @@ strong {
 .about {
     font-size: 1.1em;
 }
-.view-all {
+.view-all,
+.page-link {
     @extend %font-family-bold;
 }
 
 .article-content ul li::before,
-.studio-content ul li::before { 
+.studio-content ul li::before,
+.not-found ul li::before { 
   content: " • ";
 }
-.article-image ul li::before,
-.not-found ul li::before {
+.article-image ul li::before {
   content: "";
 }
 .card-text span {
