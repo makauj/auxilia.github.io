@@ -122,19 +122,24 @@ p {
     margin-top: -25px;
 }
 
+.studio-card,
 .lista-card {
     width: 100%;
 }
 
 .article-image,
+.studio-card-in,
 .lista-card-in {
     height: 240px;
     border: $border;
 }
 
+.studio-card-in,
 .lista-card-in {
     margin: 7px;
 }
+
+.studio-card-in,
 .lista-card-in,
 .article-image {
     background-repeat: no-repeat;

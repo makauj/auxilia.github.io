@@ -8,7 +8,7 @@ layout: compressa
         <ul>
             {% assign sorted = site.studios | sort: 'date' | reverse %}
             {% for studio in sorted %}
-            {% include lista.html %}
+            {% include lista-studio.html %}
             {% endfor %}
         </ul>
     </div>
@@ -18,7 +18,7 @@ layout: compressa
     <div class="container">
         <ul>
             {% for post in site.posts %}
-            {% include lista.html %}
+            {% include lista-articolo.html %}
             {% endfor %}
         </ul>
     </div>

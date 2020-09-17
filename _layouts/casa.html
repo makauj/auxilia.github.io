@@ -13,7 +13,7 @@ layout: compressa
         <ul>
             {% assign sorted = site.studios | sort: 'date' | reverse %}
             {% for studio in sorted limit:3%}
-            {% include lista.html %}
+            {% include lista-studio.html %}
             {% endfor %}
         </ul>
         {% include pulsante.html link="/studio/" label="VIEW ALL" class="view-all" %}

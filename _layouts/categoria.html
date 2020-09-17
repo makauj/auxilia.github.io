@@ -1,13 +1,12 @@
 ---
 layout: compressa
 ---
-
 {% include capo.html %}
 <section class="page" data-aos="fade-up" data-aos-delay="">
     <div class="container">
         <ul>
             {% for post in site.categories[page.category] %}
-            {% include lista.html %}
+            {% include lista-articolo.html %}
             {% endfor %}
         </ul>
     </div>
