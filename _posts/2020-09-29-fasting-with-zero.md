@@ -154,17 +154,6 @@ The following features are available for Zero Plus subscribers:
 - Using the Ask Zero feature to submit questions in the Learn tab.
 
 # Conclusion
-Intermittent fasting has been proved to help in weight loss, increased heart and tissue health, as well as better physical and mental performance. It one of the easiest diet plans to start on, with minimal changes to your usual routine. Check out [Zero](https://www.zerofasting.com/) on their official web site and see if intermittent fasting will work for you.
+Intermittent fasting has been proved to help in weight loss, increased heart &amp; tissue health, as well as better physical &amp; mental performance. It one of the easiest diet plans to start on, with minimal changes to your usual routine. Check out [Zero](https://www.zerofasting.com/) on their official web site and see if intermittent fasting will work for you.
 
 {% include citazione.html title="Eat food. Not too much. Mostly plants." %}
-
-
-
-
-
-
-
-
-
-
-
