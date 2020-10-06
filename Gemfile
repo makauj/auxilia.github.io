@@ -6,6 +6,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-minifier'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-compress-images'
 end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
