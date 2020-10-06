@@ -15,14 +15,14 @@ Sending emails should be like robbing a bank: you get in, do your thing, and get
 # Start with the Subject
 The subject is a summary of what the email is about. Starting with it grounds you, keeps you honest. Make sure it’s simple and direct. 
 
-{% include media.html file="emails/email_subject.png" caption="A short simple subject." class="single"%}
+{% include media.html file="emails/email_subject.jpg" caption="A short simple subject." class="single"%}
 
 # Add Your Attachments
 Few things are as disappointing as having an email clearly indicating that I should kindly find something attached and not finding it. It sours the whole deal. So don’t be that guy or girl. If you have attachments, attach them first. 
 
 And do try to keep the number of attachments small. In case of a large number of files create a compressed folder and send that instead. No one likes the idea of downloading 10 different attachments. 
 
-{% include media.html file="emails/add_attachments.png" caption="Adding attachments." class="single"%}
+{% include media.html file="emails/add_attachments.jpg" caption="Adding attachments." class="single"%}
 
 # Pick a Salutation
 This depends on your relationship with the email recipient(s). It can be any of the following:
@@ -35,7 +35,7 @@ This depends on your relationship with the email recipient(s). It can be any of 
 # Type the Email
 Keep it short, about 3 paragraphs long. Let the first paragraph be an introduction to what the email is about, the second be a detailed overview and the third a summary and next step to be taken. The shorter the email the more likely it’s going to get read. 
 
-{% include media.html file="emails/email_content.png" caption="Keep it simple and to the point." class="single"%}
+{% include media.html file="emails/email_content.jpg" caption="Keep it simple and to the point." class="single"%}
 
 # Have an a Engaging Signoff
 It’s good to end the email on an upbeat manner. This helps them remember you. You can:
@@ -50,12 +50,12 @@ It’s good to end the email on an upbeat manner. This helps them remember you. 
 # Add the Email Recipients
 Once you’re done with the message, it’s time to add the recipients. Be considerate. Don't be that person that adds everyone in the CC and BCC fields. Only add those individuals that are directly involved in the email content. 
 
-{% include media.html file="emails/adding_recipients.png" caption="Adding just the right amount of recipients." class="single"%} 
+{% include media.html file="emails/adding_recipients.jpg" caption="Adding just the right amount of recipients." class="single"%} 
 
 # Send the Email
 Review the email one last time, then send it. Spark offers a 5 second option to unsend the email in case you’ve forgotten something, or changed your mind. 
 
-{% include media.html file="emails/email_review.png" caption="Review, then send." class="single"%}
+{% include media.html file="emails/email_review.jpg" caption="Review, then send." class="single"%}
 
 # Conclusion
 That’s it. Sending emails really is that simple. And in case you’re not using the Spark app to send and receive emails, [read our review](https://auxilia.io/articles/emailing-with-spark/) and see what you’ve been missing. 
