@@ -10,16 +10,14 @@
         padding: 0 1em;
     }
 
-    .grid ul li {
+    .grid ul li,
+    .logos ul li,
+    .services ul li {
         flex: 1;
     }
 
     .grid img {
         width: 210px;
-    }
-
-    .logos ul li {
-        flex: 1;
     }
 
     .logos img {
@@ -46,7 +44,7 @@
     }
 
     .studio-card:nth-child(6),
-   // .studio-card:nth-child(14),
+   .studio-card:nth-child(16),
      .lista-card:nth-child(6)
       {
         width: 100% !important;
