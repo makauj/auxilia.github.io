@@ -19,7 +19,7 @@ Here’s what’s taking up most of my time at the moment:
 
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
-*Last Updated: October 22nd 2020.*
+*Last Updated: November 8th 2020.*
 
 [0]: https://sivers.org/nowff
 [1]: /studio/
