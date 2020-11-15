@@ -4,7 +4,7 @@ date: 2020-08-02 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/company-profiles.jpg"
-kind: Graphic Design
+kind: Digital Consultancy
 link: "/studio/company-profiles/"
 ---
 A company profile provides a quick look into a company, allowing various people to get a general idea of what the company’s products or services are, its target market, its unique strengths, its track record, and whether it is a good entity to do business with. Here are some of the company profiles I've worked on.
