@@ -16,7 +16,7 @@ Here’s what’s taking up most of my time at the moment:
 - Reading [Bachelor Pad Economics][6] by Aaron Clarey.
 - Watching [Mr. Robot][7].
 
-
+<br>
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
 *Last Updated: November 15th 2020.*
