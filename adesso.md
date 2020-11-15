@@ -11,21 +11,21 @@ Here’s what’s taking up most of my time at the moment:
 - Freelancing as a [Digital Consultant][1].
 - Writing about [Apps & Services][2] that get things done.
 - Reading [Company of One][3] by Paul Jarvis.
-- Listening to [The Lost Fleet][4] by Raymond L. Weil.
+- Listening to [The Trials of Apollo][4] by Rick Riordan.
 - Reading [Bachelor Pad Economics][5] by Aaron Clarey.
-- Learning the [Jekyll][6] static site generator.
+- Learning the [Nuxt.js][6] Vue Framework.
 - Watching [Mr. Robot][7].
 
 
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
-*Last Updated: November 8th 2020.*
+*Last Updated: November 15th 2020.*
 
 [0]: https://sivers.org/nowff
 [1]: /studio/
 [2]: /articles/
 [3]: https://ofone.co
-[4]: https://www.goodreads.com/series/150871-the-lost-fleet
+[4]: https://www.goodreads.com/series/162088-the-trials-of-apollo
 [5]: https://www.goodreads.com/book/show/20442872-bachelor-pad-economics
-[6]: https://jekyllrb.com
+[6]: https://nuxtjs.org/
 [7]: https://www.usanetwork.com/mr-robot
