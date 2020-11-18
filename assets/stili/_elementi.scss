@@ -111,6 +111,7 @@ p {
 }
 
 .view-all {
+    margin-top: 7px;
     margin-left: 7px;
 }
 
@@ -126,7 +127,7 @@ p {
 .article-image,
 .studio-card-in,
 .lista-card-in {
-    height: 240px;
+    height: 280px;
     border: $border;
 }
 
@@ -143,6 +144,7 @@ p {
 }
 .card-text {
     width: 100%;
+    padding-right: 1.5em;
     position: absolute;
     top: 1em;
     left: 1.5em;
@@ -266,7 +268,7 @@ p {
     flex-shrink: 0;
     background: inherit;
     padding-top: 2.5em;
-    margin-bottom: 0.25em;
+    margin-bottom: 0.75em;
 }
 
 .footer div {
