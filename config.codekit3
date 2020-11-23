@@ -50,7 +50,7 @@
 		"oAP": "/_config.yml",
 		"oF": 0
 		},
-	"/_draft/2020-09-02-how-to-use-facebook.md": {
+	"/_futuro/2020-09-02-how-to-use-facebook.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -60,7 +60,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_draft/2020-09-02-how-to-use-facebook.html",
+		"oAP": "/_futuro/2020-09-02-how-to-use-facebook.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -150,28 +150,12 @@
 		"oAP": "/_includes/contatto.html",
 		"oF": 0
 		},
-	"/_includes/lista-articolo-copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/lista-articolo-copy.html",
-		"oF": 0
-		},
 	"/_includes/lista-articolo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_includes/lista-articolo.html",
-		"oF": 0
-		},
-	"/_includes/lista-studio-copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/lista-studio-copy.html",
 		"oF": 0
 		},
 	"/_includes/lista-studio.html": {
@@ -2845,6 +2829,19 @@
 		"iS": 6204,
 		"oA": 0,
 		"oAP": "/_site/assets/foto/varie/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/_site/assets/foto/varie/logo1.png": {
+		"ft": 32768,
+		"iS": 36043,
+		"oA": 0,
+		"oAP": "/_site/assets/foto/varie/logo1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5731,6 +5728,19 @@
 		"iS": 6204,
 		"oA": 0,
 		"oAP": "/assets/foto/varie/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/assets/foto/varie/logo1.png": {
+		"ft": 32768,
+		"iS": 36043,
+		"oA": 0,
+		"oAP": "/assets/foto/varie/logo1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
