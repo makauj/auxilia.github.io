@@ -1,13 +1,13 @@
-@media (max-width: 768px) {
-    body {
-        font-size: 18.5px;
-        line-height: 30px;
-    }
-}
+// @media (max-width: 768px) {
+//     body {
+//         font-size: 18.5px;
+//         line-height: 30px;
+//     }
+// }
 
 @media (min-width: 768px) {
     body {
-        padding: 0 1em;
+        padding: 0 1.5em;
     }
 
     .grid ul li,
@@ -94,7 +94,7 @@
 
 @media (min-width: 1024px) {
     body {
-        padding: 0 7em;
+        padding: 0 7.5em;
     }
 
     .article-content {
