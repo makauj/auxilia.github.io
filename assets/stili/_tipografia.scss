@@ -15,10 +15,25 @@ body {
 }
 
 a {
-    color: $link-color;
+    color: $text-color; 
+    text-decoration-color: $link-color;
+    text-decoration-thickness: .125em;
+    text-underline-offset: 1.5px;
+    -webkit-transition: text-decoration-color 150ms linear;
+    -moz-transition: text-decoration-color 150ms linear;
+    -o-transition: text-decoration-color 150ms linear;
+    -ms-transition: text-decoration-color 150ms linear;
+    transition: text-decoration-color 150ms linear;
+}
+a:hover {
+    text-decoration-color: $dark-color;
+}
+.no-link {
     text-decoration: none;
 }
-
+p {
+    font-family: inherit;
+}
 /* HEADINGS */
 h1,
 h2,
@@ -84,8 +99,10 @@ strong {
 .info li,
 .callout p {
     font-size: 1.2em;
-    // line-height: 1.4em;
 }
 .title {
     @extend %font-family-bold;
     }
+.icon g {
+    fill: $link-color;
+}

@@ -56,20 +56,20 @@ p {
 .logo-home {
     position: relative;
     display: block;
-    background: url("../foto/varie/logo.png") no-repeat;
+    background: url("../foto/varie/logo.svg") no-repeat;
 }
 
 .logo {
-    background-size: 42px;
-    width: 42px;
-    height: 42px;
+    background-size: 35px;
+    width: 35px;
+    height: 35px;
 }
 
 .logo-home {
     margin: 5em auto 0;
-    background-size: 84px;
-    width: 84px;
-    height: 84px;
+    background-size: 77px;
+    width: 77px;
+    height: 77px;
 }
 
 .header-menu li {
@@ -271,8 +271,6 @@ p {
 }
 
 /* FOOTER */
-
-
 .footer div {
     border-top: $border;
 }

@@ -1,10 +1,25 @@
+// $dark-color: #0A0A0A;
+// $link-color: #87A5D2;
+// $text-color: #BCBAC8;
+
+// DARK RED
+// $dark-color: #1A1A1A;
 $dark-color: #0A0A0A;
-$link-color: #87A5D2;
-// $link-color: #034687;
-$text-color: #BCBAC8;
+$link-color: #A92F41;
+$text-color: #D9D9D9;
+
+// BLUE
+// $dark-color: #12232E;
+// $link-color: #4DA8DA;
+// $text-color: #EEFBFB;
+
+// DARK BROWN
+// $dark-color: #141311;
+// $link-color: #A2482E;
+// $text-color: #D9D9D9;
+
 $border:  2px solid $text-color;
 
-// $font-name-text: 'DarkerGrotesque';
 $font-name-text: 'GT-Walsheim';
 %font-family-regular {
     font-family: '#{$font-name-text}-Regular',
