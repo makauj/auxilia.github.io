@@ -126,17 +126,6 @@ p {
     margin-bottom: -3px;
 }
 
-.span:before {
-    display: block;
-    content: '';
-    background:$link-color;
-    height: .125em;
-    width: 21px;
-    z-index: -1;
-    margin-left: 7px;
-    margin-bottom: -7px;
-}
-
 .card-text span:before {
     display: block;
   content: ' ';
@@ -184,7 +173,7 @@ p {
     object-fit: cover;
 }
 .card-text {
-    width: 100%;
+    width: 90%;
     padding-right: 1.5em;
     position: absolute;
     top: 1em;
