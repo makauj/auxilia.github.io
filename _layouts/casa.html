@@ -9,7 +9,7 @@ layout: compressa
 </section>
 <section class="studio-list" data-aos="fade-up" data-aos-delay="">
     <div class="container">
-        <h4>LATEST WORK</h4>
+        <span class="span"></span><h4>LATEST WORK</h4>
         <ul>
             {% assign sorted = site.studios | sort: 'date' | reverse %}
             {% for studio in sorted limit:3%}
