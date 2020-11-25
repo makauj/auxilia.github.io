@@ -2,7 +2,9 @@
     body {
         padding: 0 1.5em;
     }
-
+    .article-content {
+        padding: 0 3em;
+    }
     .grid ul li,
     .logos ul li,
     .services ul li {
@@ -89,15 +91,17 @@
     body {
         padding: 0 7.5em;
     }
+}
 
-    .article-content {
-        padding: 0 3em;
+@media (min-width: 1120px) {
+    body {
+        padding: 0 12em;
     }
 }
 
 @media (min-width: 1280px) {
     body {
-        padding: 0 11em;
+        padding: 0 16em;
     }
 
     .grid img {
@@ -108,7 +112,16 @@
         padding: 0 4em;
     }
 }
-
+@media (min-width: 1366px) {
+    body {
+        padding: 0 18em;
+    }
+}
+@media (min-width: 1440px) {
+    body {
+        padding: 0 21em;
+    }
+}
 @media (min-width: 1920px) {
     body {
         padding: 0 26em;
