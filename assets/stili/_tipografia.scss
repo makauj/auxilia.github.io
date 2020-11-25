@@ -3,8 +3,6 @@
 
 body {
     @extend %font-family-regular;
-    // font-size: 21px;
-    // line-height: 35px;
     font-size: 17px;
     line-height: 38px;
     color: $text-color;
@@ -80,6 +78,11 @@ strong {
 .studio-content ul li::before,
 .not-found ul li::before { 
   content: " • ";
+}
+.article-content ul li,
+.studio-content ul li,
+.not-found ul li { 
+  margin-left: 2em;
 }
 .article-image ul li::before {
   content: "";
