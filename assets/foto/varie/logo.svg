@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="700px" viewBox="0 0 700 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo copy 3</title>
+    <defs>
+        <path d="M349.2472,57.4 C349.2472,57.4 453.3232,259.7224 505.3612,360.8864 C510.011313,369.924166 516.116047,381.789787 522.309162,393.82888 L523.341932,395.836547 C525.924732,400.857454 528.509698,405.882875 530.998,410.7208 L652.320145,641.84932 C652.320145,641.84932 470.475625,643.507541 342,641.84932 C329.618736,641.689516 312.468065,643.507541 302.2016,641.84932 L302.201,559 L526.722628,559 L349.108143,226 L200.344,509.35 L200.157357,509 L130.25,641.849 L48.6,641.84932 L349.2472,57.4 Z" id="path-1"></path>
+    </defs>
+    <g id="logo-copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#D9D9D9" xlink:href="#path-1"></use>
+        <polygon id="inset" fill="#A92F41" points="349.776903 336 442.051095 509 258.948905 509"></polygon>
+    </g>
+</svg>
