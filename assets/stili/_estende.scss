@@ -4,8 +4,8 @@ $link-color: #87A5D2;
 $text-color: #BCBAC8;
 $border:  2px solid $text-color;
 
-$font-name-text: 'DarkerGrotesque';
-// $font-name-text: 'GT-Walsheim';
+// $font-name-text: 'DarkerGrotesque';
+$font-name-text: 'GT-Walsheim';
 %font-family-regular {
     font-family: '#{$font-name-text}-Regular',
     sans-serif;
