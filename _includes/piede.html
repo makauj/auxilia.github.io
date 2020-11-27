@@ -3,7 +3,7 @@
     {% if page.title != 'Page Not Found' %}
     <div>
         {% if page.type == 'post' %}
-            <ul class="footer-left large">
+        <ul class="footer-left large">
             <li>Read Next</li>
             <li>•</li>
             {% if page.previous.url %}
@@ -12,9 +12,9 @@
             <li><a class="hvr-underline-from-left next" href="{{page.next.url}}">{{page.next.title}}</a></li>
             {% endif %}
         </ul>
-            <span class="footer-left small all-articles">
+        <span class="footer-left small all-articles">
             <a class="hvr-wobble-horizontal" href="/articles/">All Articles
-            <span class="icon">
+                <span class="icon">
                     <?xml version="1.0" encoding="UTF-8"?>
                     <svg width="12px" height="12px" viewBox="0 0 160 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>chevron</title>
@@ -25,50 +25,50 @@
                             </g>
                         </g>
                     </svg></span>
-                </a>
-            </span>
+            </a>
+        </span>
         <ul class="footer-right">
             <span class="large">
-            <li><a class="hvr-underline-from-left" href="/about/">About</a> Me</li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/now/">What</a> I'm Upto</li>
-            <li>•</li>
-            <li>Get in <a class="hvr-underline-from-left" href="#mailgo" data-address="hello" data-domain="auxilia.io" data-subject="Hello!" data-body="I was browsing your website and...">Touch</a></li>
-        </span>
-        <span class="small">
-            <li><a class="hvr-underline-from-left" href="/about/">About</a></li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/now/">Now</a></li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left"href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Contact</a></li>
-        </span>
+                <li><a class="hvr-underline-from-left" href="/about/">About</a> Me</li>
+                <li>•</li>
+                <li><a class="hvr-underline-from-left" href="/now/">What</a> I'm Upto</li>
+                <li>•</li>
+                <li>Get in <a class="hvr-underline-from-left" href="#mailgo" data-address="hello" data-domain="auxilia.io" data-subject="Hello!" data-body="I was browsing your website and...">Touch</a></li>
+            </span>
+            <span class="small">
+                <li><a class="hvr-underline-from-left" href="/about/">About</a></li>
+                <li>•</li>
+                <li><a class="hvr-underline-from-left" href="/now/">Now</a></li>
+                <li>•</li>
+                <li><a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Contact</a></li>
+            </span>
         </ul>
-        
         {% else %}
         <ul class="footer-left">
             <span class="large">
-            <li><a class="hvr-underline-from-left" href="/about/">About</a> Me</li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/now/">What</a> I'm Upto</li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/why/">Why</a> I Write</li>
-        </span>
-        <span class="small">
-            <li><a class="hvr-underline-from-left" href="/about/">About</a></li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/now/">Now</a></li>
-            <li>•</li>
-            <li><a class="hvr-underline-from-left" href="/why/">Why</a></li>
-
-        </span>
+                <li><a class="hvr-underline-from-left" href="/about/">About</a> Me</li>
+                <li>•</li>
+                <li><a class="hvr-underline-from-left" href="/now/">What</a> I'm Upto</li>
+                <li>•</li>
+                {% assign post = site.posts.first %}
+                <li><a class="hvr-underline-from-left" href="{{ post.url }}">Latest</a> Article</li>
+            </span>
+            <span class="small">
+                <li><a class="hvr-underline-from-left" href="/about/">About</a></li>
+                <li>•</li>
+                <li><a class="hvr-underline-from-left" href="/now/">Now</a></li>
+                <li>•</li>
+                {% assign post = site.posts.first %}
+                <li><a class="hvr-underline-from-left" href="{{ post.url }}">Read</a></li>
+            </span>
         </ul>
         <ul class="footer-right">
             <span class="large">
-            <li>Get in <a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Touch</a></li>
-        </span>
-        <span class="small">
-            <li><a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Contact</a></li>
-        </span>
+                <li>Get in <a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Touch</a></li>
+            </span>
+            <span class="small">
+                <li><a class="hvr-underline-from-left" href="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and">Contact</a></li>
+            </span>
         </ul>
         {% endif %}
         {% endif %}
@@ -78,4 +78,5 @@
 <script src="/assets/azioni/azioni.js" defer></script>
 <script src="/assets/azioni/init.js" defer></script>
 </body>
+
 </html>
