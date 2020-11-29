@@ -1,5 +1,5 @@
-@include font-face('#{$font-name-text}-Regular', #{$font-name-text}-Regular);
-@include font-face('#{$font-name-text}-Bold', #{$font-name-text}-Bold);
+@include font-face('#{$font-name}-Regular', #{$font-name}-Regular);
+@include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
 
 body {
     @extend %font-family-regular;
