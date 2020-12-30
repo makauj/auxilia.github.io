@@ -54,7 +54,23 @@ p {
     float: left;
     padding: 0;
 }
+.logo-overlay {
+    float: right;
+   right: 0.5em;
+   bottom: 3.8em;
+    display: block;
+    background: url("../foto/varie/logo.svg") no-repeat;
+    background-size: 35px;
+    width: 35px;
+    height: 35px;
+    pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+    opacity: 0.7;
+}
+.media .logo-overlay a {
 
+}
 .logo,
 .logo-home {
     position: relative;
