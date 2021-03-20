@@ -13,7 +13,7 @@ body {
 }
 
 a {
-    color: $text-color; 
+    color: $text-color;
     text-decoration-color: $link-color;
     text-decoration-thickness: .125em;
     text-underline-offset: 1.5px;
@@ -76,12 +76,12 @@ strong {
 
 .article-content ul li::before,
 .studio-content ul li::before,
-.not-found ul li::before { 
+.not-found ul li::before {
   content: " • ";
 }
 .article-content ul li,
 .studio-content ul li,
-.not-found ul li { 
+.not-found ul li {
   margin-left: 2em;
 }
 .article-image ul li::before {
@@ -108,4 +108,8 @@ strong {
     }
 .icon g {
     fill: $link-color;
+}
+.callout-content {
+  padding: 2.5em 0 0.25em;
+  font-size: 1.5em;
 }

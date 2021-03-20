@@ -1,6 +1,6 @@
 ---
 title: Design to Code
-date: 2020-11-08 00:00:00 Z
+date: 2021-03-12 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/design-to-code.jpg"
@@ -12,11 +12,13 @@ Design to Code is the process of converting a digital design to HTML, CSS and Ja
 This is where I come in. Working with assets designed in Adobe Photoshop, Sketch, Invision, Adobe XD and Figma, I can seamlessly transform them into user and developer friendly code, such as the ones below:
 <div class="media logos">
     <ul>
-		{% include media-lista.html file="codice/paset.jpg" caption="PASET - RSIF" %}
-		<div class="break"></div>
-		{% include media-lista.html file="codice/awf.jpg" caption="African Wildlife Foundation" %}
-		<div class="break"></div>
-		{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %}
+	{% include media-lista.html file="codice/awfv2.jpg" caption="African Wildlife Foundation Intranet Redesign" %}
+	<div class="break"></div>
+	{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %}
+	<div class="break"></div>
+		{% include media-lista.html file="codice/awfv1.jpg" caption="African Wildlife Foundation Intranet" %}
+	<div class="break"></div>
+	{% include media-lista.html file="codice/paset.jpg" caption="PASET - RSIF" %}
 		<div class="break"></div>
 	</ul>
 </div>
