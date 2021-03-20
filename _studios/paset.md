@@ -1,6 +1,6 @@
 ---
 title: PASET - RSIF
-date: 2020-08-30 00:00:00 Z
+date: 2021-02-26 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/paset.jpg"
