@@ -5,6 +5,5 @@ layout: sito
 type: studio
 image: "/assets/foto/studio/paset.jpg"
 kind: Web Development
-link: https://icipe.kihingu.com/
+link: https://www.rsif-paset.org
 ---
-
