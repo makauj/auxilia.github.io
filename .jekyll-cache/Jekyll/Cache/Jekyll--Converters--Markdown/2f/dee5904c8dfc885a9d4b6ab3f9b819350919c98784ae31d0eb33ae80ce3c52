@@ -1,11 +1,8 @@
-I"{<p>Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment apps.</p>
-
-<p>With millions of mobile apps being available in today’s smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.</p>
+I"�<p>Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today’s smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.</p>
 
 <p>This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. The app’s UI is highlighted below.</p>
 
 <h1 id="client-app-design">Client App Design</h1>
-
 <div class="media logos">
 <ul>
 <li class="hvr-float">
@@ -72,57 +69,57 @@
 <div class="media logos">
 <ul>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/01-homepage.png" alt="Supplier Home Screen" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/01-homepage.png" alt="Supplier Home Screen" class="lazyload" />
     <div class="caption">
         <h3>Supplier Home Screen</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/02-all-services.png" alt="All Services" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/02-my-services.png" alt="My Services" class="lazyload" />
     <div class="caption">
-        <h3>All Services</h3>
+        <h3>My Services</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/03-service-selection.png" alt="Service Selection" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/03-edit-service.png" alt="Edit Service" class="lazyload" />
     <div class="caption">
-        <h3>Service Selection</h3>
+        <h3>Edit Service</h3>
     </div>
 </li>
 <div class="break"></div>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/04-payment-method.png" alt="Service Payment Options" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/04-payment-method.png" alt="Service Payment Options" class="lazyload" />
     <div class="caption">
         <h3>Service Payment Options</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/05-service-description.png" alt="Service Description" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/05-service-details.png" alt="Service Details" class="lazyload" />
     <div class="caption">
-        <h3>Service Description</h3>
+        <h3>Service Details</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/06-service-review.png" alt="Service Review" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/06-service-review.png" alt="Service Request Review" class="lazyload" />
     <div class="caption">
-        <h3>Service Review</h3>
+        <h3>Service Request Review</h3>
     </div>
 </li>
 <div class="break"></div>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/07-service-accepted.png" alt="Service Accepted" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/07-service-accepted.png" alt="Service Accepted" class="lazyload" />
     <div class="caption">
         <h3>Service Accepted</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/08-profile.png" alt="Supplier Profile" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/08-profile.png" alt="Supplier Profile" class="lazyload" />
     <div class="caption">
         <h3>Supplier Profile</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/09-settings.png" alt="Settings" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/09-settings.png" alt="Settings" class="lazyload" />
     <div class="caption">
         <h3>Settings</h3>
     </div>
@@ -131,13 +128,13 @@
 </ul>
 </div>
 
-<p>In recent years, with the rapid growth in technology, mobile phones have become a vital part in human life. Smartphones gave a new face to service sector with the invention of mobile apps. Let’s work together to design an app that’ll engage your clients and give you an edge over your competitors.</p>
+<p>In recent years, with the rapid growth in technology, mobile phones have become a vital part of modern life. Smartphones gave a new face to the service industry with the invention of mobile apps. Let’s work together to design an app that’ll engage your clients and give you an edge over your competitors.</p>
 
 <section class="callout">
     
         <div>
             
-            <h1>Hire me,<br />or just say hello!<br />
+            <h2 class="callout-content">Hire me,<br />or just say hello!<br />
                 <a class="hvr-wobble-horizontal no-link mail" href="mailto:hello@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and">hello@auxilia.io
     <span class="icon">
         <?xml version="1.0" encoding="UTF-8"?>
@@ -152,7 +149,7 @@
         </svg>
     </span>
 </a>
-            </h1>
+            </h2>
         </div>
 </section>
 :ET

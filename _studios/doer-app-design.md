@@ -9,7 +9,7 @@ link: "/studio/doer-app-design/"
 ---
 Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.
 
-This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. The app's UI is highlighted below.
+This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. Some of the app's UI is highlighted below.
 
 # Client App Design
 <div class="media logos">
@@ -33,11 +33,11 @@ This is the major goal behind the Doer app, which is meant to connect service su
 <div class="media logos">
 <ul>
 {% include media-lista.html file="disegno/supplier/01-homepage.png" caption="Supplier Home Screen" %}
-{% include media-lista.html file="disegno/supplier/02-all-services.png" caption="All Services" %}
-{% include media-lista.html file="disegno/supplier/03-service-selection.png" caption="Service Selection" %}
+{% include media-lista.html file="disegno/supplier/02-my-services.png" caption="My Services" %}
+{% include media-lista.html file="disegno/supplier/03-edit-service.png" caption="Edit Service" %}
 <div class="break"></div>
 {% include media-lista.html file="disegno/supplier/04-payment-method.png" caption="Service Payment Options" %}
-{% include media-lista.html file="disegno/supplier/05-service-description.png" caption="Service Description" %}
+{% include media-lista.html file="disegno/supplier/05-service-details.png" caption="Service Details" %}
 {% include media-lista.html file="disegno/supplier/06-service-review.png" caption="Service Request Review" %}
 <div class="break"></div>
 {% include media-lista.html file="disegno/supplier/07-service-accepted.png" caption="Service Accepted" %}
