@@ -10,12 +10,10 @@ Here’s what’s taking up most of my time at the moment:
 
 - Working as a [Digital Designer][1].
 - Writing about [Apps & Services][2] that get things done.
-- Reading [Company of One][3] by Paul Jarvis.
-- Listening to the [Heaven's River][4] by Dennis E. Taylor.
-- Watching [Professionals][5].
+- Learning the [Nuxt.js][3] Vue Framework.
+- Reading [Company of One][4] by Paul Jarvis.
+- Listening to the [Silver Ships][5] by S.H. Jucha.
 
-<!-- - Learning the [Nuxt.js][4] Vue Framework. -->
-<!-- - Reading [Bachelor Pad Economics][6] by Aaron Clarey. -->
 <br>
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
@@ -24,9 +22,10 @@ Here’s what’s taking up most of my time at the moment:
 [0]: https://sivers.org/nowff
 [1]: /studio/
 [2]: /articles/
-[3]: https://ofone.co
-[4]: https://www.goodreads.com/book/show/42950440-heaven-s-river
-[5]: https://www.imdb.com/title/tt8769360/
+[3]: https://nuxtjs.org/
+[4]: https://ofone.co
+[5]: https://www.goodreads.com/series/147586-silver-ships
 
-<!-- [4]: https://nuxtjs.org/ -->
+<!-- - Watching [Professionals][5]. -->
+<!-- - Reading [Bachelor Pad Economics][6] by Aaron Clarey. -->
 <!-- [6]: https://www.goodreads.com/book/show/20442872-bachelor-pad-economics -->
