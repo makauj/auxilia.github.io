@@ -2,7 +2,7 @@
 @include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
 
 body {
-    @extend %font-family-regular;
+    @extend %font-family-regular !important;
     font-size: 16px;
     line-height: 2.2rem;
     color: $text-color;
