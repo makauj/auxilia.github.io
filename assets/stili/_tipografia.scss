@@ -1,8 +1,11 @@
 @include font-face('#{$font-name}-Regular', #{$font-name}-Regular);
 @include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
 
+html {
+  @extend %font-family-regular;
+}
 body {
-    @extend %font-family-regular !important;
+   font-family: inherit !important;
     font-size: 16px;
     line-height: 2.2rem;
     color: $text-color;
