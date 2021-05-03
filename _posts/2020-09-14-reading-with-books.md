@@ -5,7 +5,7 @@ categories:
   - apps
 layout: sito
 type: post
-image: /assets/foto/articolo/books/libri.jpeg
+image: "/assets/foto/articolo/books/libri.jpeg"
 ---
 
 Sometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it. The Books app allows you to do exactly this, while making the reading experience as fun as possible.

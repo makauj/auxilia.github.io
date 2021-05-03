@@ -5,7 +5,7 @@
                     <li>
                         <div class="card-text">
                             {% assign words = post.content | number_of_words %}
-                            <span>{{ post.categories | join: ', '}} • {% if words < 360 %} 1 Min Read{% else %} {{ words | divided_by:180 }} Mins Read{% endif %}</span> 
+                            <span>{{ post.categories | join: ', '}} • {% if words < 500 %} 1 Min Read{% else %} {{ words | divided_by:250 }} Mins Read{% endif %}</span> 
                                 <h1>{{post.title}}</h1>
                         </div>
                     </li>
