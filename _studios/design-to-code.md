@@ -11,16 +11,16 @@ Design to Code is the process of converting a digital design to HTML, CSS and Ja
 
 This is where I come in. Working with assets designed in Adobe Photoshop, Sketch, Invision, Adobe XD and Figma, I can seamlessly transform them into user and developer friendly code, such as the ones below:
 <div class="media logos">
-    <ul>
-	{% include media-lista.html file="codice/awfv2.jpg" caption="African Wildlife Foundation Intranet Redesign" %}
+<ul>
+{% include media-lista.html file="codice/awfv2.jpg" caption="African Wildlife Foundation Intranet Redesign" %}
+<div class="break"></div>
+{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %} 
+<div class="break"></div>
+	{% include media-lista.html file="codice/awfv1.jpg" caption="African Wildlife Foundation Intranet" %}
+<div class="break"></div>
+{% include media-lista.html file="codice/paset.jpg" caption="PASET - RSIF" %}
 	<div class="break"></div>
-	{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %}
-	<div class="break"></div>
-		{% include media-lista.html file="codice/awfv1.jpg" caption="African Wildlife Foundation Intranet" %}
-	<div class="break"></div>
-	{% include media-lista.html file="codice/paset.jpg" caption="PASET - RSIF" %}
-		<div class="break"></div>
-	</ul>
+</ul>
 </div>
 A website’s attractiveness is important, but no matter how awesome its pages may be, if the coding does not meet certain standards of performance, search engine friendliness or device and browser compatibility, it will not be a winner – by any measure.
 

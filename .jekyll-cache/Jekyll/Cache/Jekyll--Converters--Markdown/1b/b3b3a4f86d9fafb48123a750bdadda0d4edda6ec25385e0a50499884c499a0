@@ -1,37 +1,37 @@
-I"<p>Design to Code is the process of converting a digital design to HTML, CSS and JavaScript code. These can then be used as a website template or used in other projects such as WordPress themes, Laravel and React applications.</p>
+I"<p>Design to Code is the process of converting a digital design to HTML, CSS and JavaScript code. These can then be used as a website template or used in other projects such as WordPress themes, Laravel and React applications.</p>
 
 <p>This is where I come in. Working with assets designed in Adobe Photoshop, Sketch, Invision, Adobe XD and Figma, I can seamlessly transform them into user and developer friendly code, such as the ones below:</p>
 <div class="media logos">
-    <ul>
-	<li class="hvr-float">
+<ul>
+<li class="hvr-float">
     <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/codice/awfv2.jpg" alt="African Wildlife Foundation Intranet Redesign" class="lazyload" />
     <div class="caption">
         <h3>African Wildlife Foundation Intranet Redesign</h3>
     </div>
 </li>
-	<div class="break"></div>
-	<li class="hvr-float">
+<div class="break"></div>
+<li class="hvr-float">
     <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/codice/aas.jpg" alt="AAS Intranet" class="lazyload" />
     <div class="caption">
         <h3>AAS Intranet</h3>
     </div>
-</li>
-	<div class="break"></div>
-		<li class="hvr-float">
+</li> 
+<div class="break"></div>
+	<li class="hvr-float">
     <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/codice/awfv1.jpg" alt="African Wildlife Foundation Intranet" class="lazyload" />
     <div class="caption">
         <h3>African Wildlife Foundation Intranet</h3>
     </div>
 </li>
-	<div class="break"></div>
-	<li class="hvr-float">
+<div class="break"></div>
+<li class="hvr-float">
     <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/codice/paset.jpg" alt="PASET - RSIF" class="lazyload" />
     <div class="caption">
         <h3>PASET - RSIF</h3>
     </div>
 </li>
-		<div class="break"></div>
-	</ul>
+	<div class="break"></div>
+</ul>
 </div>
 <p>A website’s attractiveness is important, but no matter how awesome its pages may be, if the coding does not meet certain standards of performance, search engine friendliness or device and browser compatibility, it will not be a winner – by any measure.</p>
 

@@ -12,19 +12,19 @@ Here’s what’s taking up most of my time at the moment:
 - Writing about [Apps & Services][2] that get things done.
 - Learning the [Nuxt.js][3] Vue Framework.
 - Reading [Company of One][4] by Paul Jarvis.
-- Listening to the [Silver Ships][5] by S.H. Jucha.
+- Listening to the [Bones of the Past][5] by Drew Hayes.
 
 <br>
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
-*Last Updated: March 18th 2021.*
+*Last Updated: May 7th 2021.*
 
 [0]: https://sivers.org/nowff
 [1]: /studio/
 [2]: /articles/
 [3]: https://nuxtjs.org/
 [4]: https://ofone.co
-[5]: https://www.goodreads.com/series/147586-silver-ships
+[5]: https://www.goodreads.com/book/show/56151914-bones-of-the-past
 
 <!-- - Watching [Professionals][5]. -->
 <!-- - Reading [Bachelor Pad Economics][6] by Aaron Clarey. -->
