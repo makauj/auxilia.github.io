@@ -1,0 +1,42 @@
+I"�<p>This is where I come in. Working with assets designed in Adobe Photoshop, Sketch, Invision, Adobe XD and Figma, I can seamlessly transform them into user and developer friendly code, such as the ones below:</p>
+<div class="media logos">
+<ul>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/rsif_01.jpg" alt="Homepage" class="lazyload" />
+    <div class="caption">
+        <h3>Homepage</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/rsif_02.jpg" alt="About Us" class="lazyload" />
+    <div class="caption">
+        <h3>About Us</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/rsif_03.jpg" alt="Impact" class="lazyload" />
+    <div class="caption">
+        <h3>Impact</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/rsif_04.jpg" alt="News" class="lazyload" />
+    <div class="caption">
+        <h3>News</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/rsif_05.jpg" alt="Partner with RSIF" class="lazyload" />
+    <div class="caption">
+        <h3>Partner with RSIF</h3>
+    </div>
+</li>
+<div class="break"></div>
+</ul>
+</div>
+<p>A website’s attractiveness is important, but no matter how awesome its pages may be, if the coding does not meet certain standards of performance, search engine friendliness or device and browser compatibility, it will not be a winner – by any measure.</p>
+:ET

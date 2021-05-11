@@ -87,6 +87,9 @@ strong {
 .not-found ul li {
   margin-left: 2em;
 }
+.media ul li {
+  margin-left: 0 !important;
+}
 .article-image ul li::before {
   content: "";
 }
