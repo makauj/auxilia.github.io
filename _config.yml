@@ -1,0 +1,43 @@
+---
+title: Auxilia
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  studios:
+    title: Studios
+    output: true
+    permalink: "/studio/:path/"
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: sito
+    author: Joshua M.
+    bio: Lupo Solitario.
+permalink: "/articles/:title/"
+category_dir: "/articles/"
+category_title_prefix: " "
+name: Auxilia
+url: https://auxilia.io
+logo: "/assets/foto/varie/logo.png"
+email: hello@auxilia.io
+lang: en_UK
+author: Joshua M.
+twitter:
+  username: makaujm_
+  card: summary
+port: 7000
+sass:
+  sass_dir: "/assets/stili"
+  style: compressed
+plugins:
+- jekyll-minifier
+- jekyll-seo-tag
+# - jekyll-compress-images
+# compress_images:
+#   images_path: "assets/foto/**/*.{gif,png,jpg,jpeg,svg}"
+# imageoptim:
+#   svgo: false

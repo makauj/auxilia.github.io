@@ -1,0 +1,26 @@
+$dark-color: #0A0A0A;
+$link-color: #A92F41;
+$text-color: #D9D9D9;
+
+$border:  2px solid $text-color;
+
+$font-name: 'GT-Walsheim';
+%font-family-regular {
+    font-family: '#{$font-name}-Regular',
+    sans-serif;
+}
+
+%font-family-bold {
+    font-family: '#{$font-name}-Bold',
+    sans-serif;
+}
+
+$path-font: 'fonte';
+@mixin font-face($family, $file) {
+    @font-face {
+        font-family: $family;
+        font-weight: normal;
+        font-style: normal;
+        src: url("#{$path-font}/#{$file}.woff") format("woff");
+    }
+}

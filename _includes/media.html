@@ -1,0 +1,20 @@
+{% if include.class %}
+{% assign class = "single" %}
+    {% else %}
+        {% assign class = "multiple" %}
+{% endif %}
+<div class="media {{ class }}">
+    {% if include.file %}
+        <img src="/assets/foto/varie/lazyload.png" data-src="{{ include.file | prepend: '/assets/foto/articolo/' }}" alt="{{ include.title }}" class="lazyload" />
+            <!-- <a class="logo-overlay" href=""></a> -->
+        {% endif %}
+        {% if include.title or include.caption or include.link %}
+        <div class="caption">
+            {% if include.title %}
+            <h3>{{ include.title }}</h3> {% endif %} {% if include.caption %}
+            <h3>{{ include.caption }}</h3>
+            {% endif %} {% if include.link %}
+            <a href="{{ include.link }}" title="Visit Website" class="caption-link">Visit Website</a> {% endif %}
+        </div>
+        {% endif %}
+</div>

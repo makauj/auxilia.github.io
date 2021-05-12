@@ -1,0 +1,11 @@
+<section class="callout">
+    {% if page.type == 'page' or page.type == 'home' %}
+    <div class="container">
+        {% else %}
+        <div>
+            {%endif%}
+            <h2 class="callout-content">Hire me,<br>or just say hello!<br>
+                {% include pulsante.html link="mailto:hello@auxilia.io?subject=Hello!&body=Hello, I was browsing your website and" label="hello@auxilia.io" class="mail" %}
+            </h2>
+        </div>
+</section>

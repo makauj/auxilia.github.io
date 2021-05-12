@@ -1,0 +1,27 @@
+---
+layout: compressa
+---
+{% include capo.html %}
+<section class="info" data-aos="fade-up" data-aos-delay="">
+    <div class="container">
+        <p>Hello, I'm Joshua Makau. I am a Digital Designer, producing <a class="hvr-underline-from-left" href="/studio/">client work</a> and <a class="hvr-underline-from-left" href="/articles/">articles</a> under the studio name Auxilia. I help my clients bring their ideas to life by creating engaging digital experiences & strategies.</p>
+    </div>
+</section>
+<section class="studio-list" data-aos="fade-up" data-aos-delay="">
+    <div class="container">
+        <h4>LATEST WORK</h4>
+        <ul>
+            {% assign sorted = site.studios | sort: 'date' | reverse %}
+            {% for studio in sorted limit:3%}
+            {% include lista-studio.html %}
+            {% endfor %}
+        </ul>
+        {% include pulsante.html link="/studio/" label="VIEW ALL" class="view-all" %}
+</section>
+<section class="callout">
+    <div class="container">
+        <p>I'm all about straight talk and good vibes, with no politics and no drama. Whatever we'll work on together, I'll make sure others care about it as much as you do. </p>
+    </div>
+</section>
+{% include contatto.html %}
+{% include piede.html %}

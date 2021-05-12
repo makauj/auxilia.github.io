@@ -1,0 +1,13 @@
+<div class="studio-card hvr-float">
+    <a href="{{ studio.link }}" title="{{ studio.title }}">
+        <div class="studio-card-in card-{{forloop.index}}">
+            <img src="/assets/foto/varie/lazyload.png" data-src="{{studio.image}}" alt="{{ studio.title }}" class="card-image lazyload" />
+            <li>
+                <div class="card-text">
+                    <span>{{studio.kind}}</span>
+                    <h1>{{studio.title}}</h1>
+                </div>
+            </li>
+        </div>
+    </a>
+</div>

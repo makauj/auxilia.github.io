@@ -1,0 +1,121 @@
+@include font-face('#{$font-name}-Regular', #{$font-name}-Regular);
+@include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
+
+html {
+  @extend %font-family-regular;
+}
+body {
+   font-family: inherit !important;
+    font-size: 16px;
+    line-height: 2.2rem;
+    color: $text-color;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    color: $text-color;
+    text-decoration-color: $link-color;
+    text-decoration-thickness: .125em;
+    text-underline-offset: 1.5px;
+    -webkit-transition: text-decoration-color 150ms linear;
+    -moz-transition: text-decoration-color 150ms linear;
+    -o-transition: text-decoration-color 150ms linear;
+    -ms-transition: text-decoration-color 150ms linear;
+    transition: text-decoration-color 150ms linear;
+}
+a:hover {
+    text-decoration-color: $dark-color;
+}
+.no-link {
+    text-decoration: none;
+}
+p {
+    font-family: inherit;
+}
+/* HEADINGS */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    @extend %font-family-bold;
+    padding: 0;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.125em;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 0.75em;
+}
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-size: 1em;
+}
+strong {
+   @extend %font-family-bold;
+}
+.about {
+    font-size: 1.1em;
+}
+.view-all,
+.page-link {
+    @extend %font-family-bold;
+}
+
+.article-content ul li::before,
+.studio-content ul li::before,
+.not-found ul li::before {
+  content: " • ";
+}
+.article-content ul li,
+.studio-content ul li,
+.not-found ul li {
+  margin-left: 2em;
+}
+.media ul li {
+  margin-left: 0 !important;
+}
+.article-image ul li::before {
+  content: "";
+}
+.card-text span {
+    @extend %font-family-bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+.studio-card a,
+.lista-card a {
+    text-decoration: none;
+    color: $text-color;
+}
+.info p,
+.info li,
+.callout p {
+    font-size: 1.2em;
+}
+.title {
+    @extend %font-family-bold;
+    }
+.icon g {
+    fill: $link-color;
+}
+.callout-content {
+  padding: 2.5em 0 0.25em;
+  font-size: 1.5em;
+}
