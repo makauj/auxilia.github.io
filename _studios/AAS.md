@@ -1,5 +1,5 @@
 ---
-title: African Academy of Sciences
+title: AAS
 date: 2021-04-07 00:00:00 Z
 layout: sito
 type: studio
