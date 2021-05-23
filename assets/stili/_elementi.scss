@@ -118,15 +118,6 @@ p {
     margin-bottom: 2em;
 }
 
-.title {
-    width: 100%;
-    padding-top: 0.5em;
-}
-
-.desc {
-    width: 100%;
-}
-
 .studio-list {
     margin-bottom: 1.5em;
 }
@@ -170,7 +161,34 @@ p {
 .email {
     margin-top: -25px;
 }
+.title {
+  width: 100%;
+}
 
+.desc {
+  width: 100%;
+}
+
+.service-card {
+  width: 100%;
+}
+.service-card h1 {
+  display: inline-block;
+  font-size: 1.2rem;
+  margin-left: 5px;
+}
+.service-card p {
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.service-card svg {
+  height: 25px;
+  width: 25px;
+}
+.service-card-title {
+  display: flex;
+  align-items: center;
+}
 .studio-card,
 .lista-card {
     width: 100%;
@@ -281,19 +299,13 @@ p {
     content: "";
 }
 
-.services li {
-    margin-right: 0.7em;
-}
-
 .page-link {
     width: 100%;
     display: flex;
     justify-content: center;
     margin-bottom: 40px;
 }
-.about {
-    margin-bottom: 1.5em;
-}
+
 .large {
     display: none !important;
 }
@@ -309,7 +321,9 @@ p {
 .body-content {
     margin-bottom: 2.5em;
 }
-
+.callout-content {
+  padding: 1em 0 0.25em;
+}
 /* FOOTER */
 .footer div {
     border-top: $border;

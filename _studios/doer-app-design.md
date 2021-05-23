@@ -4,7 +4,7 @@ date: 2021-03-17 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/doer-app-design.jpg"
-kind: App Design
+kind: Graphic Design
 link: "/studio/doer-app-design/"
 ---
 Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.

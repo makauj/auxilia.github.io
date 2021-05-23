@@ -4,7 +4,7 @@ date: 2021-02-10 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/logofolio.jpg"
-kind: Digital Design
+kind: Graphic Design
 link: "/studio/logofolio/"
 ---
 A logo can be described as the face of a company.  Quite often, it’s the first thing that a potential customer will notice about your business. Usually, people associate a high-quality logo with the quality of services provided by a particular company.

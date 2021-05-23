@@ -4,7 +4,7 @@ date: 2021-02-20 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/social-media-ads.jpg"
-kind: Digital Design
+kind: Graphic Design
 link: "/studio/social-media-ads/"
 ---
 YOU can drive consistent sales for your website through social media advertising. Attention spans matter a lot on social media. Your ads should be so engrossing that it arrests user’s attention at a glance. Ads such as the ones below:

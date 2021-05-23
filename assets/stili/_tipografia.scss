@@ -1,5 +1,6 @@
 @include font-face('#{$font-name}-Regular', #{$font-name}-Regular);
 @include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
+@include font-face('#{$font-title}-Medium', #{$font-title}-Medium);
 
 html {
   @extend %font-family-regular;
@@ -109,13 +110,10 @@ strong {
 .callout p {
     font-size: 1.2em;
 }
-.title {
-    @extend %font-family-bold;
-    }
+
 .icon g {
     fill: $link-color;
 }
 .callout-content {
-  padding: 2.5em 0 0.25em;
   font-size: 1.5em;
 }

@@ -5,6 +5,7 @@ $text-color: #D9D9D9;
 $border:  2px solid $text-color;
 
 $font-name: 'GT-Walsheim';
+$font-title: 'GT-Haptik';
 %font-family-regular {
     font-family: '#{$font-name}-Regular',
     sans-serif;
@@ -12,6 +13,11 @@ $font-name: 'GT-Walsheim';
 
 %font-family-bold {
     font-family: '#{$font-name}-Bold',
+    sans-serif;
+}
+
+%font-family-medium {
+    font-family: '#{$font-title}-Medium',
     sans-serif;
 }
 
