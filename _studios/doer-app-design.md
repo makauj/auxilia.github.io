@@ -34,15 +34,18 @@ This is the major goal behind the Doer app, which is meant to connect service su
 <ul>
 {% include media-lista.html file="disegno/supplier/01-homepage.png" caption="Supplier Home Screen" %}
 {% include media-lista.html file="disegno/supplier/02-my-services.png" caption="My Services" %}
-{% include media-lista.html file="disegno/supplier/03-edit-service.png" caption="Edit Service" %}
+{% include media-lista.html file="disegno/supplier/03-service-overview.png" caption="Service Overview" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/supplier/04-payment-method.png" caption="Service Payment Options" %}
-{% include media-lista.html file="disegno/supplier/05-service-details.png" caption="Service Details" %}
-{% include media-lista.html file="disegno/supplier/06-service-review.png" caption="Service Request Review" %}
+{% include media-lista.html file="disegno/supplier/04-edit-service.png" caption="Edit Services" %}
+{% include media-lista.html file="disegno/supplier/05-requested-services.png" caption="Available Services" %}
+
+
+{% include media-lista.html file="disegno/supplier/06-service-review.png" caption="Service Review" %}
+
 <div class="break"></div>
 {% include media-lista.html file="disegno/supplier/07-service-accepted.png" caption="Service Accepted" %}
-{% include media-lista.html file="disegno/supplier/08-profile.png" caption="Supplier Profile" %}
-{% include media-lista.html file="disegno/supplier/09-settings.png" caption="Settings" %}
+{% include media-lista.html file="disegno/supplier/08-service-history.png" caption="Service History" %}
+{% include media-lista.html file="disegno/supplier/09-registration-complete.png" caption="Registration Complete" %}
 <div class="break"></div>
 </ul>
 </div>
