@@ -1,6 +1,5 @@
 @include font-face('#{$font-name}-Regular', #{$font-name}-Regular);
 @include font-face('#{$font-name}-Bold', #{$font-name}-Bold);
-@include font-face('#{$font-title}-Medium', #{$font-title}-Medium);
 
 html {
   @extend %font-family-regular;
