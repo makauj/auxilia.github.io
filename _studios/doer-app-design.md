@@ -18,16 +18,18 @@ This is the major goal behind the Doer app, which is meant to connect service su
 {% include media-lista.html file="disegno/client/02-sign-up.png" caption="New Account Registration" %}
 {% include media-lista.html file="disegno/client/03-enter-otp.png" caption="OTP Verification" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/client/04-service-payment.png" caption="Service Payment Options" %}
-{% include media-lista.html file="disegno/client/05-sign-up-card.png" caption="Payment Details" %}
-{% include media-lista.html file="disegno/client/06-password-reset.png" caption="Password Reset" %}
+{% include media-lista.html file="disegno/client/04-sign-up-card.png" caption="Payment Details" %}
+{% include media-lista.html file="disegno/client/05-homepage.png" caption="User Home Screen" %}
+{% include media-lista.html file="disegno/client/06-service-history.png" caption="Service History" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/client/07-homepage.png" caption="User Home Screen" %}
-{% include media-lista.html file="disegno/client/08-service-history.png" caption="Service History" %}
+{% include media-lista.html file="disegno/client/07-ongoing-service.png" caption="Ongoing Service" %}
+{% include media-lista.html file="disegno/client/08-service-complete.png" caption="Service Complete" %}
 {% include media-lista.html file="disegno/client/09-profile.png" caption="User Profile" %}
 <div class="break"></div>
 </ul>
 </div>
+
+{% include pulsanti.html link="https://www.pedaids.org"%}
 
 # Supplier App Design
 <div class="media logos">
@@ -36,16 +38,13 @@ This is the major goal behind the Doer app, which is meant to connect service su
 {% include media-lista.html file="disegno/supplier/02-my-services.png" caption="My Services" %}
 {% include media-lista.html file="disegno/supplier/03-service-overview.png" caption="Service Overview" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/supplier/04-edit-service.png" caption="Edit Services" %}
-{% include media-lista.html file="disegno/supplier/05-requested-services.png" caption="Available Services" %}
-
-
-{% include media-lista.html file="disegno/supplier/06-service-review.png" caption="Service Review" %}
-
+{% include media-lista.html file="disegno/supplier/04-requested-services.png" caption="Available Services" %}
+{% include media-lista.html file="disegno/supplier/05-service-review.png" caption="Service Review" %}
+{% include media-lista.html file="disegno/supplier/06-service-accepted.png" caption="Service Accepted" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/supplier/07-service-accepted.png" caption="Service Accepted" %}
+{% include media-lista.html file="disegno/supplier/07-edit-service.png" caption="Edit Services" %}
 {% include media-lista.html file="disegno/supplier/08-service-history.png" caption="Service History" %}
-{% include media-lista.html file="disegno/supplier/09-registration-complete.png" caption="Registration Complete" %}
+{% include media-lista.html file="disegno/supplier/09-working-mode.png" caption="Working Mode Off" %}
 <div class="break"></div>
 </ul>
 </div>

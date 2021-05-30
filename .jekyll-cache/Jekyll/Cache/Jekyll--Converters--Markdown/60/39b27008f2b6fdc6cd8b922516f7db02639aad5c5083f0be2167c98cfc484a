@@ -1,4 +1,4 @@
-I"Ω<p>Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today‚Äôs smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.</p>
+I"ù<p>Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today‚Äôs smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.</p>
 
 <p>This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. Some of the app‚Äôs UI is highlighted below.</p>
 
@@ -25,34 +25,34 @@
 </li>
 <div class="break"></div>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/04-service-payment.png" alt="Service Payment Options" class="lazyload" />
-    <div class="caption">
-        <h3>Service Payment Options</h3>
-    </div>
-</li>
-<li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/05-sign-up-card.png" alt="Payment Details" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/04-sign-up-card.png" alt="Payment Details" class="lazyload" />
     <div class="caption">
         <h3>Payment Details</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/06-password-reset.png" alt="Password Reset" class="lazyload" />
-    <div class="caption">
-        <h3>Password Reset</h3>
-    </div>
-</li>
-<div class="break"></div>
-<li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/07-homepage.png" alt="User Home Screen" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/05-homepage.png" alt="User Home Screen" class="lazyload" />
     <div class="caption">
         <h3>User Home Screen</h3>
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/08-service-history.png" alt="Service History" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/06-service-history.png" alt="Service History" class="lazyload" />
     <div class="caption">
         <h3>Service History</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/07-ongoing-service.png" alt="Ongoing Service" class="lazyload" />
+    <div class="caption">
+        <h3>Ongoing Service</h3>
+    </div>
+</li>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/client/08-service-complete.png" alt="Service Complete" class="lazyload" />
+    <div class="caption">
+        <h3>Service Complete</h3>
     </div>
 </li>
 <li class="hvr-float">
@@ -88,31 +88,28 @@
 </li>
 <div class="break"></div>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/04-edit-service.png" alt="Edit Services" class="lazyload" />
-    <div class="caption">
-        <h3>Edit Services</h3>
-    </div>
-</li>
-<li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/05-requested-services.png" alt="Available Services" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/04-requested-services.png" alt="Available Services" class="lazyload" />
     <div class="caption">
         <h3>Available Services</h3>
     </div>
 </li>
-
-
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/06-service-review.png" alt="Service Review" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/05-service-review.png" alt="Service Review" class="lazyload" />
     <div class="caption">
         <h3>Service Review</h3>
     </div>
 </li>
-
-<div class="break"></div>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/07-service-accepted.png" alt="Service Accepted" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/06-service-accepted.png" alt="Service Accepted" class="lazyload" />
     <div class="caption">
         <h3>Service Accepted</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/07-edit-service.png" alt="Edit Services" class="lazyload" />
+    <div class="caption">
+        <h3>Edit Services</h3>
     </div>
 </li>
 <li class="hvr-float">
@@ -122,9 +119,9 @@
     </div>
 </li>
 <li class="hvr-float">
-    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/09-registration-complete.png" alt="Registration Complete" class="lazyload" />
+    <img src="/assets/foto/varie/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/09-working-mode.png" alt="Working Mode Off" class="lazyload" />
     <div class="caption">
-        <h3>Registration Complete</h3>
+        <h3>Working Mode Off</h3>
     </div>
 </li>
 <div class="break"></div>

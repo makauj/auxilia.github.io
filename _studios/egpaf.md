@@ -1,5 +1,5 @@
 ---
-title: Elizabeth Glaser Pediatric AIDS Foundation
+title: Elizabeth Glaser Paediatric AIDS Foundation
 date: 2021-02-26 00:00:00 Z
 layout: sito
 type: studio
@@ -7,7 +7,7 @@ image: "/assets/foto/studio/egpaf.jpg"
 kind: Web Development
 link: "/studio/egpaf/"
 ---
-The Elizabeth Glaser Pediatric AIDS Foundation ("EGPAF") is a nonprofit organization dedicated to preventing pediatric HIV infection and eliminating pediatric AIDS through research, advocacy, and prevention and treatment programs. 
+The Elizabeth Glaser Paediatric AIDS Foundation ("EGPAF") is a nonprofit organization dedicated to preventing pediatric HIV infection and eliminating pediatric AIDS through research, advocacy, and prevention and treatment programs. 
 
 In pursuant of their goals, they contracted me to design the foundation of their company vendor portal, after which it was passed on to developers for final design. The portal is shown below:
 
