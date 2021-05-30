@@ -29,8 +29,6 @@ This is the major goal behind the Doer app, which is meant to connect service su
 </ul>
 </div>
 
-{% include pulsanti.html link="https://www.pedaids.org"%}
-
 # Supplier App Design
 <div class="media logos">
 <ul>

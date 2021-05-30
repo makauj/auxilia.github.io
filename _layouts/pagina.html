@@ -3,7 +3,7 @@ layout: compressa
 ---
 {% include capo.html %}
 {% if page.type == 'studio' %}
-<section class="body-content" data-aos="fade-up" data-aos-delay="">
+<section class="body-contents" data-aos="fade-up" data-aos-delay="">
     <div class="container studio-list">
         <ul>
             {% assign sorted = site.studios | sort: 'date' | reverse %}
@@ -12,6 +12,7 @@ layout: compressa
             {% endfor %}
         </ul>
     </div>
+      {% include pulsanti.html title="VIEW COMPANY PROFILE" link="../../assets/profili/Auxilia%20Profile.pdf"%}
 </section>
 {% else %}
 <section class="body-content" data-aos="fade-up" data-aos-delay="">

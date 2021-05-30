@@ -18,7 +18,7 @@ In pursuant of their goals, they contracted me to design the foundation of their
 </ul>
 </div>
 
-{% include pulsanti.html link="https://www.awf.org"%}
+{% include pulsanti.html title="VISIT WEBSITE" link="https://www.awf.org"%}
 
 Companies of all sizes often suffer from miscommunication - between executives and middle-management, between departments, between locations, etc. Whether you're trying to collaborate on a document, send an announcement to your team, or gather feedback from your entire department, a well-designed intranet is the best tool for internal communications. 
 

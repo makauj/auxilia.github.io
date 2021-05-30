@@ -129,6 +129,10 @@
 <loc>http://localhost:7000/studio/</loc>
 </url>
 <url>
+<loc>http://localhost:7000/assets/profili/Auxilia%20Profile.pdf</loc>
+<lastmod>2021-05-30T13:49:09+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:7000/assets/profili/Bevenju%20Ventures%20Profile.pdf</loc>
 <lastmod>2020-08-12T12:59:08+00:00</lastmod>
 </url>
@@ -141,11 +145,7 @@
 <lastmod>2021-01-20T19:14:08+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:7000/assets/profili/Faison%20Company%20Profile.pdf</loc>
-<lastmod>2021-02-22T08:47:04+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:7000/assets/profili/Lemarc%20Company%20Profile.pdf</loc>
+<loc>http://localhost:7000/assets/profili/Lemarc%20Profile.pdf</loc>
 <lastmod>2021-02-18T04:35:07+00:00</lastmod>
 </url>
 </urlset>
