@@ -7,9 +7,9 @@ image: "/assets/foto/studio/doer-app-design.jpg"
 kind: Graphic Design
 link: "/studio/doer-app-design/"
 ---
-Mobile apps are applications designed to perform a specific task. These range from social media to online shopping to ride sharing to banking to service and entertainment tasks. With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users.
+With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users. This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. 
 
-This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. Some of the app's UI is highlighted below.
+Some of the app's UI is highlighted below.
 
 # Client App Design
 <div class="media logos">
