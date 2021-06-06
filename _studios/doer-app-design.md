@@ -46,7 +46,8 @@ This is the major goal behind the Doer app, which is meant to connect service su
 <div class="break"></div>
 </ul>
 </div>
+Beautiful interfaces, striking simplicity, and easy navigation are 3 of the most prominent traits in a great app. You want people to tell their friends about your app, understand its purpose, have an easy time navigating through it, and ensure it’s something they keep coming back to.
 
-In recent years, with the rapid growth in technology, mobile phones have become a vital part of modern life. Smartphones gave a new face to the service industry with the invention of mobile apps. Let's work together to design an app that'll engage your clients and give you an edge over your competitors.
+Let's work together to design an app that'll engage your clients and give you an edge over your competitors.
 
 {% include contatto.html %}
