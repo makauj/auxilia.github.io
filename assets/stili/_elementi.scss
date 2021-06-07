@@ -129,8 +129,7 @@ p {
 }
 
 .article-content h1:before,
-.studio-content h1:before,
-.about h2:before {
+.studio-content h1:before {
   display: block;
   content: '';
   background: $link-color;
@@ -357,3 +356,19 @@ p {
 .footer-right li:last-child {
   padding-right: 0 !important;
 }
+.profile-card {
+  height: 40%;
+  width: 40%;
+  margin-top: 12px;
+  margin-right: 1em;
+}
+.profile {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .about-intro {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
