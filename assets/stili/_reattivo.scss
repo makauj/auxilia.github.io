@@ -23,7 +23,7 @@
     .info p,
     .info li,
     .callout p {
-        font-size: 1.25em;
+        font-size: 1.4em;
     }
 
     .studio-card,
@@ -79,7 +79,9 @@
         width: 75%;
         float: right;
     }
-
+    .profile-card {
+          display: block;
+      }
     .large {
         display: block !important;
     }
