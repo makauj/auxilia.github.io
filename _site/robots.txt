@@ -1,1 +1,1 @@
-Sitemap: http://localhost:7000/sitemap.xml
+Sitemap: https://auxilia.io/sitemap.xml

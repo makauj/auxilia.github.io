@@ -8,7 +8,7 @@ type: post
 image: /assets/foto/articolo/watch/orologio.jpg
 ---
 
-As a “technology person” (ugh), people ask my why I wear a mechanical watch when I already have the time on my phone?
+As a “technology person” (ugh), people ask me why I wear a mechanical watch when I already have the time on my phone?
 
 I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.
 
