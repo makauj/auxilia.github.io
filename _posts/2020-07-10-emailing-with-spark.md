@@ -20,7 +20,7 @@ Spark is my favourite of these apps. It’s a freemium cross-platform email app 
 
 As per their tagline, Spark aims to help you love your email again. It does this by simplifying the email workflow from viewing to composing to tracking important emails via pinning or snoozing. It’s available for iOS, iPadOS, macOS and Android. A Windows app is also in the works.
 
-Let’s have a closer look at it and it’s features.
+Let’s have a closer look at it and its features.
 
 # Inbox
 
