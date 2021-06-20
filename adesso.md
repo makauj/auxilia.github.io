@@ -2,7 +2,7 @@
 title: What I’m Upto
 permalink: "/now/"
 type: page
-image: "/assets/foto/altro/adesso.jpg"
+image: "/assets/foto/altro/adesso.png"
 layout: sito
 ---
 
