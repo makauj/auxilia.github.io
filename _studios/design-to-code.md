@@ -3,7 +3,7 @@ title: Design to Code
 date: 2021-02-14 00:00:00 Z
 layout: sito
 type: studio
-image: "/assets/foto/studio/design-to-code.jpg"
+image: "/assets/foto/studio/design-to-code.png"
 kind: Web Development
 link: "/studio/design-to-code/"
 ---
@@ -14,7 +14,7 @@ This is where I come in. Working with assets designed in Adobe Photoshop, Sketch
 <ul>
 {% include media-lista.html file="codice/awfv2.jpg" caption="African Wildlife Foundation Intranet Redesign" %}
 <div class="break"></div>
-{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %} 
+{% include media-lista.html file="codice/aas.jpg" caption="AAS Intranet" %}
 <div class="break"></div>
 	{% include media-lista.html file="codice/awfv1.jpg" caption="African Wildlife Foundation Intranet" %}
 <div class="break"></div>

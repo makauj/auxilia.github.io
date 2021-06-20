@@ -5,20 +5,20 @@ categories:
 - guides
 layout: sito
 type: post
-image: "/assets/foto/articolo/pdfs/pdf.jpg"
+image: "/assets/foto/articolo/pdfs/pdf.png"
 ---
 
-If there’s one document standard that has stood the test of time, it’s the Portable Document Format, PDF. This file format is special in that it can be view by a wide variety of devices without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal. 
+If there’s one document standard that has stood the test of time, it’s the Portable Document Format, PDF. This file format is special in that it can be view by a wide variety of devices without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.
 
 Unfortunately, it also makes it difficult to adjust. Changes such as extracting pages, adding more pages and converting to other file formats require special software or services. One of these services is ILovePDF, a freemium web service for working with PDFs.
 
 # Home Page
-[ILovePDF.com ](https://ILovePDF.com) has all its tools front and centre on the homepage. These allow PDFs to be edited in a lot of different ways. 
+[ILovePDF.com ](https://ILovePDF.com) has all its tools front and centre on the homepage. These allow PDFs to be edited in a lot of different ways.
 
 {% include media.html file="pdfs/pdf_home.jpg" caption="Tools as far as the eye can see. "%}
 
 # Merge PDF
-Multiple PDFs can be combined to one using this tool. Select it and you’ll be taken to a page where you can upload the pdfs to be merged. Set the order to be used, then tap Merge PDF. 
+Multiple PDFs can be combined to one using this tool. Select it and you’ll be taken to a page where you can upload the pdfs to be merged. Set the order to be used, then tap Merge PDF.
 
 {% include media.html file="pdfs/pdf_merge.jpg" caption="Merge PDFs. The order can be set by dragging the files to the preferred order. "%}
 
@@ -37,11 +37,11 @@ For both options, the resulting files can be merged into a single PDF.
 {% include media.html file="pdfs/pdf_extract.jpg" caption="Extracting specific pages. "%}
 
 # Compress PDF
-PDFs can get very large, which makes sharing them via email or chat more difficult than necessary. This is where the Compress PDF service comes in play. Tap on it, select the file to be compressed, and leave the compression level as recommended. 
+PDFs can get very large, which makes sharing them via email or chat more difficult than necessary. This is where the Compress PDF service comes in play. Tap on it, select the file to be compressed, and leave the compression level as recommended.
 
 {% include media.html file="pdfs/pdf_compress_01.jpg" caption="You can upload multiple PDFs for compression."%}
 
-Tap compress PDF. The file will be uploaded, compressed, and once done the compressed file will be provided to download. 
+Tap compress PDF. The file will be uploaded, compressed, and once done the compressed file will be provided to download.
 
 {% include media.html file="pdfs/pdf_compress_02.jpg" caption="Time taken to upload the file depends on its size and network speed."%}
 
@@ -54,7 +54,7 @@ PDFs can be converted to:
 - Excel.
 - JPG.
 
-The process is largely the same as the above conversions. 
+The process is largely the same as the above conversions.
 
 # Other Formats to PDF
 Other file formats, namely Word, Powerpoint, Excel and JPG can be converted to PDF.

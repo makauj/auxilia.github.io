@@ -1,0 +1,81 @@
+I"�<p>The Elizabeth Glaser Paediatric AIDS Foundation (“EGPAF”) is a nonprofit organization dedicated to preventing pediatric HIV infection and eliminating pediatric AIDS through research, advocacy, and prevention and treatment programs.</p>
+
+<p>In pursuant of their goals, they contracted me to design the foundation of their company vendor portal, after which it was passed on to developers for final design. The portal is shown below:</p>
+
+<div class="media logos">
+<ul>
+<li class="hvr-float">
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_01.jpg" alt="Homepage" class="lazyload" />
+    <div class="caption">
+        <h3>Homepage</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_02.jpg" alt="Document Library" class="lazyload" />
+    <div class="caption">
+        <h3>Document Library</h3>
+    </div>
+</li>
+<div class="break"></div>
+<li class="hvr-float">
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_03.jpg" alt="Account Settings" class="lazyload" />
+    <div class="caption">
+        <h3>Account Settings</h3>
+    </div>
+</li>
+<div class="break"></div>
+</ul>
+</div>
+
+<div class="page-link">
+
+    <a class="button hvr-wobble-horizontal no-link " href="https://www.pedaids.org" target="_blank" style="text-decoration-color: #0A0A0A;">
+        VISIT WEBSITE
+        <span class="icon">
+            <?xml version="1.0" encoding="UTF-8"?>
+            <svg width="12px" height="12px" viewBox="0 0 160 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <title>chevron</title>
+                <desc>Created with Sketch.</desc>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="chevron" fill="#87A5D2" fill-rule="nonzero">
+                        <polygon id="Path" points="31.093 0 0.907 30.187 98.72 128 0.907 225.813 31.093 256 159.093 128"></polygon>
+                    </g>
+                </g>
+            </svg>
+        </span>
+    </a>
+</div>
+
+<p>Companies of all sizes often suffer from miscommunication - between executives and middle-management, between departments, between locations, etc. Whether you’re trying to collaborate on a document, send an announcement to your team, or gather feedback from your entire department, a well-designed intranet is the best tool for internal communications.</p>
+
+<p>If your company doesn’t have one, or you have an intranet that no one uses, you are missing out on a prime opportunity. Get in touch and we’ll work on getting you an intranet your employees will use to increase engagement, improve internal communication, and promote corporate culture.</p>
+
+<section class="callout">
+    
+        <div>
+            
+            <h2 class="callout-content">Hire me,<br />or just say hello!<br />
+                 
+<div class="">
+
+    <a class="button hvr-wobble-horizontal no-link left" href="mailto:hello@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and" target="_blank" style="text-decoration-color: #0A0A0A;">
+        hello@auxilia.io
+        <span class="icon">
+            <?xml version="1.0" encoding="UTF-8"?>
+            <svg width="12px" height="12px" viewBox="0 0 160 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <title>chevron</title>
+                <desc>Created with Sketch.</desc>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="chevron" fill="#87A5D2" fill-rule="nonzero">
+                        <polygon id="Path" points="31.093 0 0.907 30.187 98.72 128 0.907 225.813 31.093 256 159.093 128"></polygon>
+                    </g>
+                </g>
+            </svg>
+        </span>
+    </a>
+</div>
+            </h2>
+        </div>
+</section>
+:ET

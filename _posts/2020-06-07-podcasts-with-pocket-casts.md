@@ -5,7 +5,7 @@ categories:
 - apps
 layout: sito
 type: post
-image: "/assets/foto/articolo/casts/casts.jpg"
+image: "/assets/foto/articolo/casts/casts.png"
 ---
 
 Podcasts have gained prominence in the past couple of years. Simply put, a podcast is a series of spoken audio episodes that often focus on a particular topic or theme. Think of them as radio station programs that you can download and listen to at any time of your choosing.

@@ -3,7 +3,7 @@ title:  RSIF - PASET
 date: 2021-04-14 00:00:00 Z
 layout: sito
 type: studio
-image: "/assets/foto/studio/rsif.jpg"
+image: "/assets/foto/studio/rsif.png"
 kind: Web Development
 link: "/studio/rsif-paset/"
 ---

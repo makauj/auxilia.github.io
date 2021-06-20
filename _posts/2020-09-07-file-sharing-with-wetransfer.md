@@ -5,7 +5,7 @@ categories:
 - guides
 layout: sito
 type: post
-image: "/assets/foto/articolo/wetransfer/wetransfer.jpg"
+image: "/assets/foto/articolo/wetransfer/wetransfer.png"
 ---
 
 Files can be shared online in a wide variety of ways. They can be emailed, texted via WhatsApp, iMessage, Telegram, and via file storage services such as Dropbox, Google Drive and OneDrive.
@@ -75,6 +75,6 @@ You can also get additional features that enhance your experience using WeTransf
 {% include media.html file="wetransfer/wetransfer-pro.jpeg" caption="WeTransfer Pro costs $12 per month, or $120 per year. "%}
 
 # Conclusion
-Online file sharing doesn’t have to be complicated. Or expensive. Next time you need to send a file larger than 25MB, the current limit for most email servers, give [WeTransfer](https://wetransfer.com) a try. It won’t disappoint. 
+Online file sharing doesn’t have to be complicated. Or expensive. Next time you need to send a file larger than 25MB, the current limit for most email servers, give [WeTransfer](https://wetransfer.com) a try. It won’t disappoint.
 
 {% include citazione.html title="Efficiency is doing better what is already being done." %}

@@ -3,7 +3,7 @@ title: Social Media Ads
 date: 2021-02-20 00:00:00 Z
 layout: sito
 type: studio
-image: "/assets/foto/studio/social-media-ads.jpg"
+image: "/assets/foto/studio/social-media-ads.png"
 kind: Graphic Design
 link: "/studio/social-media-ads/"
 ---

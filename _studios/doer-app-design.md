@@ -3,11 +3,11 @@ title: Doer App Design
 date: 2021-03-17 00:00:00 Z
 layout: sito
 type: studio
-image: "/assets/foto/studio/doer-app-design.jpg"
+image: "/assets/foto/studio/doer-app-design.png"
 kind: Graphic Design
 link: "/studio/doer-app-design/"
 ---
-With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users. This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients. 
+With millions of mobile apps being available in today's smartphones and tablet, a great user experience is paramount for best adoption by smartphone users. This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients.
 
 Some of the app's UI is highlighted below.
 

@@ -5,7 +5,7 @@ categories:
 - apps
 layout: sito
 type: post
-image: "/assets/foto/articolo/spark/Spark.jpeg"
+image: "/assets/foto/articolo/spark/spark.png"
 ---
 
 Emails, to some of us, are like a plague. They spread rapidly, infect you until you’re covered in sores and can’t do anything useful, and ultimately fill the streets with corpses.

@@ -5,7 +5,7 @@ categories:
   - apps
 layout: sito
 type: post
-image: /assets/foto/articolo/zero/digiuno.jpg
+image: "/assets/foto/articolo/zero/zero.png"
 ---
 
 Intermittent fasting, currently one of the world’s most popular health trends, is an eating plan where you switch between eating and fasting on a regular schedule. Unlike most diets, it’s not concerned with *what* you eat, but rather *when* you eat.

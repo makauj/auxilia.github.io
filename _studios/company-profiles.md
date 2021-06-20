@@ -3,7 +3,7 @@ title: Company Profiles
 date: 2021-02-02 00:00:00 Z
 layout: sito
 type: studio
-image: "/assets/foto/studio/company-profiles.jpg"
+image: "/assets/foto/studio/company-profiles.png"
 kind: Graphic Design
 link: "/studio/company-profiles/"
 ---
