@@ -1,5 +1,6 @@
 @media (min-width: 768px) {
     body {
+        font-size: 16px;
         padding: 0 2em;
     }
     .article-content {
@@ -41,6 +42,7 @@
 
     .studio-card:nth-child(6),
      .lista-card:nth-child(8),
+     .lista-card:nth-child(11),
      .studio-card:nth-child(14)
       {
         width: 100% !important;

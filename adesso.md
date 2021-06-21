@@ -12,7 +12,7 @@ Here’s what’s taking up most of my time at the moment:
 - Writing about [Apps & Services][2] that get things done.
 - Learning the [Nuxt.js][3] Vue Framework.
 - Reading [The Laws of Human Nature][4] by Robert Greene.
-- Listening to the [Omega Force][5] series by Joshua Dalzelle.
+- Listening to the [Lost Starship][5] series by Vaughn Heppner.
 - Watching [Blindspot][6].
 
 <br>
@@ -25,5 +25,5 @@ Here’s what’s taking up most of my time at the moment:
 [2]: /articles/
 [3]: https://nuxtjs.org/
 [4]: https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature
-[5]: https://www.goodreads.com/series/113707-omega-force
+[5]: https://www.goodreads.com/series/148505-lost-starship
 [6]: https://www.nbc.com/blindspot
