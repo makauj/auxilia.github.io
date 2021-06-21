@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:7000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:7000/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2021-06-21T19:21:25+00:00</updated><id>http://localhost:7000/feed.xml</id><title type="html">Auxilia</title><author><name>Joshua M.</name></author><entry><title type="html">Recordings with Voice Memos</title><link href="http://localhost:7000/articles/recordings-with-memos/" rel="alternate" type="text/html" title="Recordings with Voice Memos" /><published>2021-06-18T00:00:00+00:00</published><updated>2021-06-18T00:00:00+00:00</updated><id>http://localhost:7000/articles/recordings-with-memos</id><content type="html" xml:base="http://localhost:7000/articles/recordings-with-memos/">&lt;p&gt;We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, a meeting to review or a friend attempting to sing. One of the best ways to do this is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:7000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:7000/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2021-06-21T20:04:18+00:00</updated><id>http://localhost:7000/feed.xml</id><title type="html">Auxilia</title><author><name>Joshua M.</name></author><entry><title type="html">Recordings with Voice Memos</title><link href="http://localhost:7000/articles/recordings-with-memos/" rel="alternate" type="text/html" title="Recordings with Voice Memos" /><published>2021-06-18T00:00:00+00:00</published><updated>2021-06-18T00:00:00+00:00</updated><id>http://localhost:7000/articles/recordings-with-memos</id><content type="html" xml:base="http://localhost:7000/articles/recordings-with-memos/">&lt;p&gt;We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, a meeting to review or a friend attempting to sing. One of the best ways to do this is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
 
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
-&lt;p&gt;The Voice memos app is terribly simple. You get a title at the top, a search bar, a list of all your recordings and a big red record button at the bottom.&lt;/p&gt;
+&lt;p&gt;The Voice Memos app is terribly simple. You get a title at the top, a search bar, a list of all your recordings and a big red button at the bottom.&lt;/p&gt;
 
 &lt;div class=&quot;media multiple&quot;&gt;
     
@@ -11,16 +11,16 @@
         
         &lt;div class=&quot;caption&quot;&gt;
              
-            &lt;h3&gt;Voice Memos Home Screen, with and without recordings.&lt;/h3&gt;
+            &lt;h3&gt;Voice Memos home screen, with and without recordings.&lt;/h3&gt;
              
         &lt;/div&gt;
         
 &lt;/div&gt;
 
 &lt;h1 id=&quot;recording-screen&quot;&gt;Recording Screen&lt;/h1&gt;
-&lt;p&gt;Tapping the button opens a minimised recording screen that can be expanded to fill up the whole screen by swiping up. The&lt;/p&gt;
+&lt;p&gt;Tapping the button opens a minimised recording screen that can be expanded to fill up the whole screen by swiping up. This screen displays:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Title of the recording. This defaults to the current location of the device, assuming location has been enabled.&lt;/li&gt;
+  &lt;li&gt;Title of the recording. This defaults to the current location of the device, assuming location services have been enabled on the device.&lt;/li&gt;
   &lt;li&gt;A waveform of the recording.&lt;/li&gt;
   &lt;li&gt;Current recording time.&lt;/li&gt;
   &lt;li&gt;Rewind, play/pause and forward buttons.&lt;/li&gt;
@@ -57,7 +57,7 @@
         
 &lt;/div&gt;
 
-&lt;p&gt;Pausing the recording adds a trim button at the top right, above the waveform. Tapping this opens a new trim screen where the current recording can be shortened. Once done you can either replace then resume recording or complete it using the Done button.&lt;/p&gt;
+&lt;p&gt;Pausing the recording adds a trim button at the top right, above the waveform. Tapping this opens a new trim screen where the current recording can be shortened using the timeline controls. Once done you can either replace the previous recording with the trimmed version then resume recording, or complete it using the Done button.&lt;/p&gt;
 
 &lt;div class=&quot;media multiple&quot;&gt;
     
@@ -73,8 +73,8 @@
         
 &lt;/div&gt;
 
-&lt;h1 id=&quot;memo&quot;&gt;Memo&lt;/h1&gt;
-&lt;p&gt;Each memo can be played back, trimmed, edited, duplicated, shared and deleted from the home screen. Deleting it moved it to a recently deleted screen which can then be emptied later on.&lt;/p&gt;
+&lt;h1 id=&quot;recording&quot;&gt;Recording&lt;/h1&gt;
+&lt;p&gt;Each recording can be played, trimmed, edited, duplicated, shared or deleted from the app home screen. Deleting it moved it to a recently deleted screen which can then be emptied later on.&lt;/p&gt;
 
 &lt;div class=&quot;media multiple&quot;&gt;
     
@@ -84,13 +84,13 @@
         
         &lt;div class=&quot;caption&quot;&gt;
              
-            &lt;h3&gt;Memo share menu.&lt;/h3&gt;
+            &lt;h3&gt;Recording share menu.&lt;/h3&gt;
              
         &lt;/div&gt;
         
 &lt;/div&gt;
 
-&lt;p&gt;Memos can also be organised into folders for easier management.&lt;/p&gt;
+&lt;p&gt;Recordings can also be organised into folders for easier management. This is done in the Memos screen, where new folders can be created using the folder button at the bottom right.&lt;/p&gt;
 
 &lt;div class=&quot;media multiple&quot;&gt;
     
@@ -100,30 +100,30 @@
         
         &lt;div class=&quot;caption&quot;&gt;
              
-            &lt;h3&gt;Memo selection and organisation.&lt;/h3&gt;
+            &lt;h3&gt;Recording selection and organisation.&lt;/h3&gt;
              
         &lt;/div&gt;
         
 &lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;Most current devices offer a recording app by default and Apple’s voice Memo app gets the job done via a simple but powerful interface full of useful features. That’s why it’s the most use voice recording app on all their platforms, and it genuinely deserves that position.&lt;/p&gt;
+&lt;p&gt;Most current devices offer a recording app by default and Apple’s Voice Memos app gets the job done via a simple but powerful interface full of useful features. That is why it’s the most use voice recording app on all their platforms, and you should give it a try to see if it’ll fit your recording needs.&lt;/p&gt;
 
 &lt;div class=&quot;quote&quot;&gt;
-        &lt;h2&gt;&quot;Be a voice, not an echo.&quot;&lt;/h2&gt; 
+        &lt;h2&gt;&quot;You can't find your voice if you don't use it.&quot;&lt;/h2&gt; 
 &lt;/div&gt;</content><author><name>Joshua M.</name></author><category term="apps" /><summary type="html">We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, a meeting to review or a friend attempting to sing. One of the best ways to do this is the Voice Memos app, available for free on all Apple devices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/assets/foto/articolo/memos/memos.png" /><media:content medium="image" url="http://localhost:7000/assets/foto/articolo/memos/memos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I Wear a Watch</title><link href="http://localhost:7000/articles/why-i-wear-a-watch/" rel="alternate" type="text/html" title="Why I Wear a Watch" /><published>2021-05-30T00:00:00+00:00</published><updated>2021-05-30T00:00:00+00:00</updated><id>http://localhost:7000/articles/why-i-wear-a-watch</id><content type="html" xml:base="http://localhost:7000/articles/why-i-wear-a-watch/">&lt;p&gt;As a “technology person” (ugh), people ask me why I wear a mechanical watch when I already have the time on my phone?&lt;/p&gt;
 
 &lt;p&gt;I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.&lt;/p&gt;
 
 &lt;p&gt;But lately it’s really come down to this: When I look at my watch, it gives me the time. It asks nothing in return. It’s a loyal companion without demands.&lt;/p&gt;
 
-&lt;p&gt;In contrast, if I look at my phone for the time, it takes my time. It tempts me. The time is paired with notifications. The time is paired with a big color screen. The time is paired with a temporary cure for boredom. It seduces. It’s a rare moment that you look at your phone and you only see the time. I don’t like that trade.&lt;/p&gt;
+&lt;p&gt;In contrast, if I look at my phone for the time, it takes my time. It tempts me. The time is paired with notifications. The time is paired with a big colour screen. The time is paired with a temporary cure for boredom. It seduces. It’s a rare moment that you look at your phone and you only see the time. I don’t like that trade.&lt;/p&gt;
 
 &lt;p&gt;I use my phone when I need what my phone does. I use my watch when I need the time. I like being on time, I like knowing where I stand in the hour, in the morning, in the afternoon, in the day. I look at my watch a lot, and I just love that it doesn’t look back.&lt;/p&gt;
 
 &lt;div class=&quot;quote&quot;&gt;
         &lt;h2&gt;&quot;Time is what we want most, but what we use worst.&quot;&lt;/h2&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><category term="gear" /><summary type="html">As a “technology person” (ugh), people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/assets/foto/articolo/watch/watch.png" /><media:content medium="image" url="http://localhost:7000/assets/foto/articolo/watch/watch.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="http://localhost:7000/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2020-09-29T00:00:00+00:00</published><updated>2020-09-29T00:00:00+00:00</updated><id>http://localhost:7000/articles/fasting-with-zero</id><content type="html" xml:base="http://localhost:7000/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is an eating plan where you switch between eating and fasting on a regular schedule. Unlike most diets, it’s not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><category term="info" /><summary type="html">As a “technology person” (ugh), people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/assets/foto/articolo/watch/watch.png" /><media:content medium="image" url="http://localhost:7000/assets/foto/articolo/watch/watch.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="http://localhost:7000/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2020-09-29T00:00:00+00:00</published><updated>2020-09-29T00:00:00+00:00</updated><id>http://localhost:7000/articles/fasting-with-zero</id><content type="html" xml:base="http://localhost:7000/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is an eating plan where you switch between eating and fasting on a regular schedule. Unlike most diets, it’s not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat.&lt;/p&gt;
 
 &lt;p&gt;There are a number of apps and services that can help keep track of your fasting. One of these apps is Zero.&lt;/p&gt;
 

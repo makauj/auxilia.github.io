@@ -12,7 +12,7 @@ YOU can drive consistent sales for your website through social media advertising
 <div class="media logos">
 <ul>
 {% include media-lista.html file="sociale/social-media-ad-01.jpg" caption="Instagram Marketing" %}
-{% include media-lista.html file="sociale/social-media-ad-02.jpg" caption="MArketing Experts" %}
+{% include media-lista.html file="sociale/social-media-ad-02.jpg" caption="Marketing Experts" %}
 <div class="break"></div>
 {% include media-lista.html file="sociale/social-media-ad-03.jpg" caption="Email Marketing" %}
 {% include media-lista.html file="sociale/social-media-ad-04.jpg" caption="Relationship Building Content" %}
@@ -24,7 +24,7 @@ YOU can drive consistent sales for your website through social media advertising
 {% include media-lista.html file="sociale/social-media-ad-08.jpg" caption="Social Media Marketing" %}
 <div class="break"></div>
 {% include media-lista.html file="sociale/social-media-ad-09.jpg" caption="Mobile PPC Strategy" %}
-{% include media-lista.html file="sociale/social-media-ad-10.jpg" caption="Lead generation Campaigns" %}
+{% include media-lista.html file="sociale/social-media-ad-10.jpg" caption="Lead Generation Campaigns" %}
 <div class="break"></div>
 {% include media-lista.html file="sociale/social-media-ad-11.jpg" caption="Pay Per Click Strategy" %}
 {% include media-lista.html file="sociale/social-media-ad-12.jpg" caption="PPC Strategy and Analyses" %}
