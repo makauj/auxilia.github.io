@@ -1,8 +1,7 @@
 ---
 title: Time Well Spent
 date: 2020-05-30 00:00:00
-categories:
-  - info
+categories: info
 layout: sito
 type: post
 image: "/assets/foto/articolo/time/time.png"

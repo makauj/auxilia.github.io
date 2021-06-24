@@ -10,10 +10,10 @@ Here’s what’s taking up most of my time at the moment:
 
 - Working as a [Digital Designer][1].
 - Writing about [Apps & Services][2] that get things done.
-- Learning the [Nuxt.js][3] Vue Framework.
+- Learning the [Tailwind CSS][3] Framework.
 - Reading [The Laws of Human Nature][4] by Robert Greene.
 - Listening to the [Lost Starship][5] series by Vaughn Heppner.
-- Watching [Blindspot][6].
+- Watching [Black Lightning][6].
 
 <br>
 *“Now” page inspired by [Derek Sivers.][0]*
@@ -26,4 +26,4 @@ Here’s what’s taking up most of my time at the moment:
 [3]: https://nuxtjs.org/
 [4]: https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature
 [5]: https://www.goodreads.com/series/148505-lost-starship
-[6]: https://www.nbc.com/blindspot
+[6]: https://www.imdb.com/title/tt6045840/

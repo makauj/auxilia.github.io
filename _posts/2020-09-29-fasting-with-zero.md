@@ -1,8 +1,7 @@
 ---
 title: Fasting with Zero
 date: 2020-09-29 00:00:00
-categories:
-  - apps
+categories: apps
 layout: sito
 type: post
 image: "/assets/foto/articolo/zero/zero.png"

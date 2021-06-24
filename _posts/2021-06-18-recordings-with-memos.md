@@ -1,8 +1,7 @@
 ---
 title: Recordings with Voice Memos
 date: 2021-06-18 00:00:00
-categories:
-  - apps
+categories: media
 layout: sito
 type: post
 image: "/assets/foto/articolo/memos/memos.png"

@@ -113,6 +113,10 @@
 <lastmod>2021-04-07T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:7000/studio/gmc/</loc>
+<lastmod>2021-04-09T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:7000/studio/rsif-paset/</loc>
 <lastmod>2021-04-14T00:00:00+00:00</lastmod>
 </url>
@@ -133,6 +137,9 @@
 </url>
 <url>
 <loc>http://localhost:7000/</loc>
+</url>
+<url>
+<loc>http://localhost:7000/articles/info/</loc>
 </url>
 <url>
 <loc>http://localhost:7000/articles/media/</loc>

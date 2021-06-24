@@ -1,8 +1,7 @@
 ---
 title: Reading with Books
 date: 2020-09-14 00:00:00
-categories:
-  - apps
+categories: media
 layout: sito
 type: post
 image: "/assets/foto/articolo/books/books.png"

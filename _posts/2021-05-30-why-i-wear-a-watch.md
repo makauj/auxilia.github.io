@@ -1,8 +1,7 @@
 ---
 title: Why I Wear a Watch
 date: 2021-05-30 00:00:00
-categories:
-  - info
+categories: info
 layout: sito
 type: post
 image: "/assets/foto/articolo/watch/watch.png"

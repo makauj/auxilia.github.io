@@ -1,8 +1,7 @@
 ---
 title: Editing PDFs
 date: 2020-08-14 00:00:00 Z
-categories:
-- guides
+categories: guides
 layout: sito
 type: post
 image: "/assets/foto/articolo/pdfs/pdf.png"

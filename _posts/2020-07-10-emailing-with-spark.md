@@ -1,8 +1,7 @@
 ---
 title: Emailing with Spark
 date: 2020-07-10 00:00:00 Z
-categories:
-- apps
+categories: apps
 layout: sito
 type: post
 image: "/assets/foto/articolo/spark/spark.png"

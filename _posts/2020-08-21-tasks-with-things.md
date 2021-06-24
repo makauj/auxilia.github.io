@@ -1,8 +1,7 @@
 ---
 title: Tasks with Things
 date: 2020-08-21 00:00:00
-categories:
-  - apps
+categories: apps
 layout: sito
 type: post
 image: "/assets/foto/articolo/things/things.png"

@@ -7,4 +7,3 @@ image: "/assets/foto/studio/ark.png"
 kind: Graphic & Web Design
 link: http://www.arkconsultantsltd.com/
 ---
-

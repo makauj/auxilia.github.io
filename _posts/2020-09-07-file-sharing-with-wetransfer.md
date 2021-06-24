@@ -1,8 +1,7 @@
 ---
 title: File Sharing with WeTransfer
 date: 2020-09-07 00:00:00 Z
-categories:
-- guides
+categories: guides
 layout: sito
 type: post
 image: "/assets/foto/articolo/wetransfer/wetransfer.png"

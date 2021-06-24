@@ -1,8 +1,7 @@
 ---
 title: Writing Good Emails
 date: 2020-07-18 00:00:00 Z
-categories:
-- guides
+categories: guides
 layout: sito
 type: post
 image: "/assets/foto/articolo/emails/emails.png"
