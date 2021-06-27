@@ -1,6 +1,6 @@
 ---
 title: Social Media Ads
-date: 2021-02-20 00:00:00 Z
+date: 2020-08-20 00:00:00 Z
 layout: sito
 type: studio
 image: "/assets/foto/studio/social-media-ads.png"
