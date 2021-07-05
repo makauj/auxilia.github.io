@@ -1,32 +1,14 @@
-I"�<p>The Elizabeth Glaser Paediatric AIDS Foundation (“EGPAF”) is a nonprofit organization dedicated to preventing pediatric HIV infection and eliminating pediatric AIDS through research, advocacy, and prevention and treatment programs.</p>
+I"�<p>The African Wildlife Foundation (AWF) is the leading international conservation organisation focused exclusively on Africa’s wildlife and wild lands. AWF’s programs and conservation strategies are designed to protect the wildlife and wild lands of Africa and ensure a more sustainable future for Africa’s people.</p>
 
-<p>In pursuant of their goals, they contracted me to design the foundation of their company vendor portal, after which it was passed on to developers for final design. The portal is shown below:</p>
+<p>In pursuant of their goals, they contracted me to design the foundation of their company intranet, after which it was passed on to developers for final design. The intranet is shown below:</p>
 
 <div class="media logos">
 <ul>
 <li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_01.jpg" alt="Homepage" class="lazyload" />
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/awf_01.jpg" alt="AWF Intranet" class="lazyload" />
     <div class="caption">
         
-        <h3>Homepage</h3>
-        
-    </div>
-</li>
-<div class="break"></div>
-<li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_02.jpg" alt="Document Library" class="lazyload" />
-    <div class="caption">
-        
-        <h3>Document Library</h3>
-        
-    </div>
-</li>
-<div class="break"></div>
-<li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/egpaf_03.jpg" alt="Account Settings" class="lazyload" />
-    <div class="caption">
-        
-        <h3>Account Settings</h3>
+        <h3>AWF Intranet</h3>
         
     </div>
 </li>
@@ -36,7 +18,7 @@
 
 <div class="page-link">
 
-    <a class="button hvr-wobble-horizontal no-link " href="https://www.pedaids.org" target="_blank" style="text-decoration-color: #0A0A0A;">
+    <a class="button hvr-wobble-horizontal no-link " href="https://www.awf.org" target="_blank" style="text-decoration-color: #0A0A0A;">
         VISIT WEBSITE
         <span class="icon">
             <?xml version="1.0" encoding="UTF-8"?>
@@ -65,8 +47,8 @@
                  
 <div class="">
 
-    <a class="button hvr-wobble-horizontal no-link left" href="mailto:hello@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and" target="_blank" style="text-decoration-color: #0A0A0A;">
-        josh@auxilia.io
+    <a class="button hvr-wobble-horizontal no-link left" href="mailto:josh@auxilia.io?subject=Hello!&amp;body=Hello, I was browsing your website and" target="_blank" style="text-decoration-color: #0A0A0A;">
+        Let's talk
         <span class="icon">
             <?xml version="1.0" encoding="UTF-8"?>
             <svg width="12px" height="12px" viewBox="0 0 160 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
