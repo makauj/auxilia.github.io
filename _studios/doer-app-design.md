@@ -16,14 +16,14 @@ Some of the app's UI is highlighted below.
 <ul>
 {% include media-lista.html file="disegno/client/01-welcome.png" caption="Welcome Screen" %}
 {% include media-lista.html file="disegno/client/02-sign-up.png" caption="New Account Registration" %}
-{% include media-lista.html file="disegno/client/03-enter-otp.png" caption="OTP Verification" %}
+{% include media-lista.html file="disegno/client/03-sign-up-card.png" caption="Payment Details" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/client/04-sign-up-card.png" caption="Payment Details" %}
-{% include media-lista.html file="disegno/client/05-homepage.png" caption="User Home Screen" %}
-{% include media-lista.html file="disegno/client/06-service-history.png" caption="Service History" %}
+{% include media-lista.html file="disegno/client/04-homepage.png" caption="User Home Screen" %}
+{% include media-lista.html file="disegno/client/05-service-history.png" caption="Service History" %}
+{% include media-lista.html file="disegno/client/06-ongoing-service.png" caption="Ongoing Service" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/client/07-ongoing-service.png" caption="Ongoing Service" %}
-{% include media-lista.html file="disegno/client/08-service-complete.png" caption="Service Complete" %}
+{% include media-lista.html file="disegno/client/07-service-complete.png" caption="Service Complete" %}
+{% include media-lista.html file="disegno/client/08-service-status.png" caption="Service Status" %}
 {% include media-lista.html file="disegno/client/09-profile.png" caption="User Profile" %}
 <div class="break"></div>
 </ul>
@@ -40,9 +40,10 @@ Some of the app's UI is highlighted below.
 {% include media-lista.html file="disegno/supplier/05-service-review.png" caption="Service Review" %}
 {% include media-lista.html file="disegno/supplier/06-service-accepted.png" caption="Service Accepted" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/supplier/07-edit-service.png" caption="Edit Services" %}
-{% include media-lista.html file="disegno/supplier/08-service-history.png" caption="Service History" %}
-{% include media-lista.html file="disegno/supplier/09-working-mode.png" caption="Working Mode Off" %}
+{% include media-lista.html file="disegno/supplier/07-service-details.png" caption="Service Details" %}
+{% include media-lista.html file="disegno/supplier/08-service-status.png" caption="Service Status" %}
+{% include media-lista.html file="disegno/supplier/09-service-history.png" caption="Service History" %}
+
 <div class="break"></div>
 </ul>
 </div>

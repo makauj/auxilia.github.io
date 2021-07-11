@@ -10,20 +10,16 @@ Here’s what’s taking up most of my time at the moment:
 
 - Working as a [Digital Designer][1].
 - Writing about [Apps & Services][2] that get things done.
-- Learning the [Tailwind CSS][3] Framework.
-- Reading [The Laws of Human Nature][4] by Robert Greene.
-- Listening to the [Lost Starship][5] series by Vaughn Heppner.
-- Watching [Black Lightning][6].
+- Listening to the [Lost Starship][3] series by Vaughn Heppner.
+- Watching [Supernatural][4].
 
 <br>
 *“Now” page inspired by [Derek Sivers.][0]*
 <br>
-*Last Updated • June 14th 2021.*
+*Last Updated • July 11th 2021.*
 
 [0]: https://sivers.org/nowff
 [1]: /studio/
 [2]: /articles/
-[3]: https://nuxtjs.org/
-[4]: https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature
-[5]: https://www.goodreads.com/series/148505-lost-starship
-[6]: https://www.imdb.com/title/tt6045840/
+[3]: https://www.goodreads.com/series/148505-lost-starship
+[4]: https://www.imdb.com/title/tt0460681/
