@@ -22,8 +22,8 @@ Some of the app's UI is highlighted below.
 {% include media-lista.html file="disegno/client/05-service-history.png" caption="Service History" %}
 {% include media-lista.html file="disegno/client/06-ongoing-service.png" caption="Ongoing Service" %}
 <div class="break"></div>
-{% include media-lista.html file="disegno/client/07-service-complete.png" caption="Service Complete" %}
-{% include media-lista.html file="disegno/client/08-service-status.png" caption="Service Status" %}
+{% include media-lista.html file="disegno/client/07-service-status.png" caption="Service Status" %}
+{% include media-lista.html file="disegno/client/08-service-complete.png" caption="Service Complete" %}
 {% include media-lista.html file="disegno/client/09-profile.png" caption="User Profile" %}
 <div class="break"></div>
 </ul>

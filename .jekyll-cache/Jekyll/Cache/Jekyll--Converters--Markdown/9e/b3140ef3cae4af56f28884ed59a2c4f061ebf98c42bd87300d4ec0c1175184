@@ -1,4 +1,4 @@
-I"ä<p>With millions of mobile apps being available in todayâ€™s smartphones and tablet, a great user experience is paramount for best adoption by smartphone users. This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients.</p>
+I"ê<p>With millions of mobile apps being available in todayâ€™s smartphones and tablet, a great user experience is paramount for best adoption by smartphone users. This is the major goal behind the Doer app, which is meant to connect service suppliers with prospective clients.</p>
 
 <p>Some of the appâ€™s UI is highlighted below.</p>
 
@@ -56,18 +56,18 @@
 </li>
 <div class="break"></div>
 <li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/client/07-service-complete.png" alt="Service Complete" class="lazyload" />
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/client/07-service-status.png" alt="Service Status" class="lazyload" />
     <div class="caption">
         
-        <h3>Service Complete</h3>
+        <h3>Service Status</h3>
         
     </div>
 </li>
 <li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/client/08-service-status.png" alt="Service Status" class="lazyload" />
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/client/08-service-complete.png" alt="Service Complete" class="lazyload" />
     <div class="caption">
         
-        <h3>Service Status</h3>
+        <h3>Service Complete</h3>
         
     </div>
 </li>
@@ -137,29 +137,30 @@
 </li>
 <div class="break"></div>
 <li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/07-edit-service.png" alt="Edit Services" class="lazyload" />
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/07-service-details.png" alt="Service Details" class="lazyload" />
     <div class="caption">
         
-        <h3>Edit Services</h3>
+        <h3>Service Details</h3>
         
     </div>
 </li>
 <li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/08-service-history.png" alt="Service History" class="lazyload" />
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/08-service-status.png" alt="Service Status" class="lazyload" />
+    <div class="caption">
+        
+        <h3>Service Status</h3>
+        
+    </div>
+</li>
+<li>
+    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/09-service-history.png" alt="Service History" class="lazyload" />
     <div class="caption">
         
         <h3>Service History</h3>
         
     </div>
 </li>
-<li>
-    <img src="/assets/foto/altro/lazyload.png" data-src="/assets/foto/studio/disegno/supplier/09-working-mode.png" alt="Working Mode Off" class="lazyload" />
-    <div class="caption">
-        
-        <h3>Working Mode Off</h3>
-        
-    </div>
-</li>
+
 <div class="break"></div>
 </ul>
 </div>
